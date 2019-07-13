@@ -30,4 +30,4 @@ A curated list of awesome V frameworks, libraries and software.
 
 ### Programming contests
 
-* [RustemB/rosetta-code-v](https://github.com/ShellBear/v-regex) -- Solutions for Rosetta Code in V.
+* [RustemB/rosetta-code-v](https://github.com/RustemB/rosetta-code-v) -- Solutions for Rosetta Code in V.
