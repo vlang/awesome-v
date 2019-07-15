@@ -5,9 +5,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ## Table of contents
 * [Applications](#applications)
   * [Package manager](#package-manager)
-* [Lbraries](#libraries)
+* [Libraries](#libraries)
   * [Command-line](#command-line)
   * [Text Processing](#text-processing)
+  * [Telegram](#telegram)
 * [Other](#other)
   * [Programming contests](#programming-contests)
 * [Articles](#articles)
@@ -15,18 +16,18 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ## Applications
 
 ### Package manager
-
-* [nedpals/vpkg](https://github.com/nedpals/vpkg) -- Toy package manager written on V.
+* [vpkg](https://github.com/nedpals/vpkg) - Toy package manager written on V.
 
 ## Libraries
 
 ### Command-line
-
-* [nedpals/v-args](https://github.com/nedpals/v-args) -- V library for parsing arguments from argv-like arrays.
+* [v-args](https://github.com/nedpals/v-args) - V library for parsing arguments from argv-like arrays.
 
 ### Text processing
+* [v-regex](https://github.com/ShellBear/v-regex) - A simple regex library for V.
 
-* [ShellBear/v-regex](https://github.com/ShellBear/v-regex) -- A simple regex library for V.
+### Telegram
+* [hygram](https://github.com/vpervenditti/hygram) - Telegram bot library
 
 ## Other
 
@@ -37,4 +38,3 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ## Articles
 
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
-
