@@ -17,7 +17,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Package manager
 * [vpkg](https://github.com/nedpals/vpkg) - Toy package manager written on V.
-* [vpm](https://github.com/yue-best-practices/vpm) 
+* [vpm](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
 
 ## Libraries
 
