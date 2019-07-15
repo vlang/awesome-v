@@ -1,5 +1,6 @@
 # Awesome V
-A curated list of awesome V frameworks, libraries and software.
+
+A curated list of awesome V frameworks, libraries, software and resources.
 
 ## Table of contents
 * [Applications](#applications)
@@ -10,6 +11,7 @@ A curated list of awesome V frameworks, libraries and software.
   * [Telegram](#telegram)
 * [Other](#other)
   * [Programming contests](#programming-contests)
+* [Articles](#articles)
 
 ## Applications
 
@@ -30,4 +32,9 @@ A curated list of awesome V frameworks, libraries and software.
 ## Other
 
 ### Programming contests
-* [rosetta-code-v](https://github.com/ShellBear/v-regex) - Solutions for Rosetta Code in V.
+
+* [RustemB/rosetta-code-v](https://github.com/ShellBear/v-regex) -- Solutions for Rosetta Code in V.
+
+## Articles
+
+* [An introduction to V](https://simonknott.de/articles/VLang.html)
