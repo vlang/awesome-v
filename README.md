@@ -30,6 +30,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Telegram
 * [hygram](https://github.com/vpervenditti/hygram) - Telegram bot library
 
+### Files
+* [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
+
 ## Other
 
 ### Programming contests
