@@ -24,6 +24,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Command-line
 * [v-args](https://github.com/nedpals/v-args) - V library for parsing arguments from argv-like arrays.
 
+### Graphics
+* [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
+
 ### Text processing
 * [v-regex](https://github.com/ShellBear/v-regex) - A simple regex library for V.
 
