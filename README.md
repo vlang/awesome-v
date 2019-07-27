@@ -37,7 +37,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [v-regex](https://github.com/ShellBear/v-regex) - A simple regex library for V.
 
 ### Telegram
-* [hygram](https://github.com/vpervenditti/hygram) - Telegram bot library
+* [vgram](https://github.com/vpervenditti/vgram) - Telegram bot library
 
 ### Files
 * [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
