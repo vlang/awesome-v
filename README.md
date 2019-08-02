@@ -44,11 +44,11 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## Other
 
-* [vbf](https://github.com/vpervenditti/vbf) - BrainFuck interpreter in V
+* [vbf](https://github.com/vpervenditti/vbf) - BrainFuck interpreter/compiler in V
 
 ### Programming contests
 
-* [RustemB/rosetta-code-v](https://github.com/RustemB/rosetta-code-v) - Solutions for Rosetta Code in V.
+* [rosetta-code-v](https://github.com/RustemB/rosetta-code-v) - Solutions for Rosetta Code in V.
 
 ## Articles
 
