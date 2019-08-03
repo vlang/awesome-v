@@ -3,6 +3,7 @@
 A curated list of awesome V frameworks, libraries, software and resources.
 
 ## Table of contents
+* [Languages](#languages)
 * [Applications](#applications)
   * [Interpreters/Compilers](#interpreters-compilers)  
   * [Package manager](#package-manager)
@@ -14,6 +15,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [Other](#other)
   * [Programming contests](#programming-contests)
 * [Articles](#articles)
+
+## Languages
+* [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software. 
 
 ## Applications
 
