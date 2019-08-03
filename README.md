@@ -3,7 +3,6 @@
 A curated list of awesome V frameworks, libraries, software and resources.
 
 ## Table of contents
-* [Languages](#languages)
 * [Applications](#applications)
   * [Interpreters/Compilers](#interpreters-compilers)  
   * [Package manager](#package-manager)
@@ -16,9 +15,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
   * [Programming contests](#programming-contests)
 * [Articles](#articles)
 
-## Languages
-* [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software. 
-
 ## Applications
 
 ### Package manager
@@ -26,6 +22,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [vpm](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
 
 ### Interpreters/Compilers  
+* [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software. 
 * [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 
 ## Libraries
