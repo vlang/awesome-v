@@ -6,6 +6,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [Applications](#applications)
   * [Interpreters/Compilers](#interpreters-compilers)  
   * [Package manager](#package-manager)
+  * [Editors](#editors)
+  * [Web](#web)
 * [Libraries](#libraries)
   * [Syntax highlighting](#syntax-highlighting)
   * [Command-line](#command-line)
@@ -24,6 +26,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Interpreters/Compilers  
 * [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software. 
 * [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
+
+### Editors
+* [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
+
+### Web
+* [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V
 
 ## Libraries
 
