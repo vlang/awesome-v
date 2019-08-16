@@ -49,6 +49,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Text processing
 * [v-regex](https://github.com/ShellBear/v-regex) - A simple regex library for V.
 
+### Automation
+* [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
+
 ### Telegram
 * [vgram](https://github.com/vpervenditti/vgram) - Telegram bot library
 
