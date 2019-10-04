@@ -48,6 +48,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Text processing
 * [v-regex](https://github.com/ShellBear/v-regex) - A simple regex library for V.
+* [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
 
 ### Automation
 * [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
