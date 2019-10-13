@@ -70,3 +70,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ## Articles
 
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
+
+## Community
+
+### Comunication
+
+* [r/vlang](https://www.reddit.com/r/vlang)
+
