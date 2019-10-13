@@ -64,7 +64,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## Other
 
+### Videos
 
+* [V Lang Programming](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
 
 ### Programming contests
 
