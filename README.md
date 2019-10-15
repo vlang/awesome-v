@@ -75,7 +75,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ## Articles
 
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
-* [Creating packages for V](https://www.bowero.nl/blog/2019/08/25/creating-packages-for-v/)
 * [learn v in y minutes](https://github.com/v-community/learn_v_in_y_minutes)
 
 ## Community
