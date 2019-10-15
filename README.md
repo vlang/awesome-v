@@ -30,6 +30,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Editors
 * [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 
+### Graphics
+* [raytracer](https://github.com/ali-raheem/vraytracer)
+
 ### Web
 * [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V
 
@@ -61,7 +64,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## Other
 
+### Videos
 
+* [V Lang Programming](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
 
 ### Programming contests
 
@@ -70,3 +75,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ## Articles
 
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
+* [learn v in y minutes](https://github.com/v-community/learn_v_in_y_minutes)
+
+## Community
+
+### Foruns
+
+* [r/vlang](https://www.reddit.com/r/vlang)
+* [stackoverflow](https://stackoverflow.com/questions/tagged/vlang)
+
