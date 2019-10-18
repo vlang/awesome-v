@@ -72,14 +72,22 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 * [rosetta-code-v](https://github.com/RustemB/rosetta-code-v) - Solutions for Rosetta Code in V.
 
+### Tutorials
+
+* [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
+
+* [V by Example](https://github.com/v-community/v_by_example)
+
+
 ## Articles
 
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
-* [learn v in y minutes](https://github.com/v-community/learn_v_in_y_minutes)
 
 ## Community
 
-### Foruns
+* [V Community](https://github.com/v-community)
+
+### Forums
 
 * [r/vlang](https://www.reddit.com/r/vlang)
 * [stackoverflow](https://stackoverflow.com/questions/tagged/vlang)
