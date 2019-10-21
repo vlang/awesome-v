@@ -82,6 +82,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ## Articles
 
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
+* [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
 
 ## Community
 
