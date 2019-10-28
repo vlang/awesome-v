@@ -75,8 +75,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Tutorials
 
 * [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
-
 * [V by Example](https://github.com/v-community/v_by_example)
+* [V learning notes](https://github.com/lydiandy/vlang_note) - personal learning notes in Chinese.
 
 
 ## Articles
