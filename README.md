@@ -80,6 +80,11 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [V learning notes](https://github.com/lydiandy/vlang_note) - personal learning notes in Chinese.
 
 
+### Online IDEs with V
+
+* [V Playground](https://vlang.io/play)
+* [Judge0](https://ide.judge0.com/)
+
 ## Articles
 
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
