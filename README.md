@@ -66,6 +66,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Files
 * [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
 
+### Game Development
+* [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework.
+
 ## Other
 
 ### Videos
