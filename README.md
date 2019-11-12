@@ -20,7 +20,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ## Applications
 
 ### Package manager
-* [vpkg](https://github.com/nedpals/vpkg) - Toy package manager written on V.
+* [vpkg](https://github.com/vpkg-project/vpkg) - An alternative package manager for V.
 * [vpm](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
 
 ### Interpreters/Compilers  
@@ -57,7 +57,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
 
 ### Text processing
-* [v-regex](https://github.com/ShellBear/v-regex) - A simple regex library for V.
+* [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
 * [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
 * [crayon](https://github.com/thecodrr/crayon) - 🖍️ Paint your terminal output like Picasso 🎨
 
