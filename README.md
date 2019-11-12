@@ -36,6 +36,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Web
 * [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V
 
+### Games
+* [Vlang the Game](https://github.com/gabixdev/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun.
+
 ## Libraries
 
 ### Syntax highlighting
@@ -45,6 +48,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 * [v-args](https://github.com/nedpals/v-args) - V library for parsing arguments from argv-like arrays.
+* [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli 
 
 ### Graphics
 * [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
@@ -52,6 +56,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Text processing
 * [v-regex](https://github.com/ShellBear/v-regex) - A simple regex library for V.
 * [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
+* [crayon](https://github.com/thecodrr/crayon) - 🖍️ Paint your terminal output like Picasso 🎨
 
 ### Automation
 * [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
@@ -61,6 +66,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Files
 * [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
+
+### Game Development
+* [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework.
 
 ## Other
 
@@ -75,13 +83,19 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Tutorials
 
 * [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
-
 * [V by Example](https://github.com/v-community/v_by_example)
+* [V learning notes](https://github.com/lydiandy/vlang_note) - personal learning notes in Chinese.
 
+
+### Online IDEs with V
+
+* [V Playground](https://vlang.io/play)
+* [Judge0](https://ide.judge0.com/)
 
 ## Articles
 
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
+* [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
 
 ## Community
 
