@@ -35,6 +35,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Web
 * [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V
+* [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
 
 ### Games
 * [Vlang the Game](https://github.com/gabixdev/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun.
