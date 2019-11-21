@@ -40,6 +40,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Games
 * [Vlang the Game](https://github.com/gabixdev/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun.
 
+### Command-line
+* [HN-top](https://github.com/BafS/hn-top) – A simple command to list most recent news from hacker-news
+
 ## Libraries
 
 ### Syntax highlighting
