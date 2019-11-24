@@ -55,6 +55,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [v-args](https://github.com/nedpals/v-args) - V library for parsing arguments from argv-like arrays.
 * [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli 
 * [boxx](https://github.com/thecodrr/boxx) - 📦 Create highly customizable terminal boxes that also look great!
+* [lol](https://github.com/zmeriksen/lol) - V version of lolcat
 
 ### Graphics
 * [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
