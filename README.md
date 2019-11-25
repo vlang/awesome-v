@@ -78,6 +78,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework.
 * [vSDL2](https://github.com/nsauzede/vsdl2) - SDL2 V module / libSDL2 wrapper (accompanying examples & tests are at [sdl2test](https://github.com/nsauzede/sdl2test).)
 
+### Eventing
+* [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V
+
 ### User Interface (UI) Toolkits
 * [V UI](https://github.com/vlang/v/tree/master/vlib/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 
