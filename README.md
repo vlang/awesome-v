@@ -50,6 +50,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [vim-v](https://github.com/lcolaholicl/vim-v) - Vim syntax highlighter for V programming language.
 * [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
 * [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/)
+* [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html)
+
 
 ### Command-line
 * [v-args](https://github.com/nedpals/v-args) - V library for parsing arguments from argv-like arrays.
