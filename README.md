@@ -51,7 +51,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
 * [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/)
 * [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html)
-
+* [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang)
 
 ### Command-line
 * [v-args](https://github.com/nedpals/v-args) - V library for parsing arguments from argv-like arrays.
@@ -121,4 +121,3 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 * [r/vlang](https://www.reddit.com/r/vlang)
 * [stackoverflow](https://stackoverflow.com/questions/tagged/vlang)
-
