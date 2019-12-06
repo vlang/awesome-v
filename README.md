@@ -43,6 +43,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Command-line
 * [HN-top](https://github.com/BafS/hn-top) – A simple command to list most recent news from hacker-news
 
+### Project Management
+* [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
+
 ## Libraries
 
 ### Syntax highlighting
