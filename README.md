@@ -18,6 +18,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
   * [Text processing](#text-processing)
   * [Graphics](#graphics-1)
   * [Audio](#audio)
+  * [Operating System](#operating-system)
   * [Automation](#automation)
   * [Telegram](#telegram)
   * [Files](#files)
@@ -89,6 +90,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Audio
 * [vave](https://github.com/thecodrr/vave) - 🌊 A crazy simple library for reading/writing WAV files in V.
 * [vspeech](https://github.com/thecodrr/vspeech) - 📢 Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📜
+
+### Operating System
+* [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
 
 ### Automation
 * [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
