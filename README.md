@@ -65,6 +65,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Graphics
 * [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
 
+### Audio
+* [vave](https://github.com/thecodrr/vave) - 🌊 A crazy simple library for reading/writing WAV files in V.
+* [vspeech](https://github.com/thecodrr/vspeech) - 📢 Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📜
+
 ### Text processing
 * [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
 * [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
