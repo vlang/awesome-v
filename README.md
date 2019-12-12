@@ -4,18 +4,34 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## Table of contents
 * [Applications](#applications)
-  * [Interpreters/Compilers](#interpreters-compilers)  
   * [Package manager](#package-manager)
+  * [Interpreters/Compilers](#interpreters-compilers)  
   * [Editors](#editors)
   * [Web](#web)
+  * [Graphics](#graphics)
+  * [Games](#games)
+  * [Command-line](#command-line)
+  * [Project Management](#project-management)
 * [Libraries](#libraries)
   * [Syntax highlighting](#syntax-highlighting)
   * [Command-line](#command-line)
   * [Text processing](#text-processing)
+  * [Graphics](#graphics-1)
+  * [Audio](#audio)
+  * [Automation](#automation)
   * [Telegram](#telegram)
+  * [Files](#files)
+  * [Game Development](#game-development)
+  * [Eventing](#eventing)
+  * [UI Toolkits](#user-interface-ui-toolkits)
 * [Other](#other)
+  * [Videos](#videos)
   * [Programming contests](#programming-contests)
-* [Articles](#articles)
+  * [Tutorials](#tutorials)
+  * [Online IDEs](#online-ides-with-v)
+  * [Articles](#articles)
+  * [Community](#community)
+  * [Forums](#forums)
 
 ## Applications
 
@@ -30,12 +46,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Editors
 * [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 
-### Graphics
-* [raytracer](https://github.com/ali-raheem/vraytracer)
-
 ### Web
 * [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V
 * [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
+
+### Graphics
+* [raytracer](https://github.com/ali-raheem/vraytracer)
 
 ### Games
 * [Vlang the Game](https://github.com/gabixdev/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun.
@@ -62,17 +78,17 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [boxx](https://github.com/thecodrr/boxx) - 📦 Create highly customizable terminal boxes that also look great!
 * [lol](https://github.com/zmeriksen/lol) - V version of lolcat (text/character rainbowizer)
 
+### Text processing
+* [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
+* [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
+* [crayon](https://github.com/thecodrr/crayon) - 🖍️ Paint your terminal output like Picasso 🎨
+
 ### Graphics
 * [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
 
 ### Audio
 * [vave](https://github.com/thecodrr/vave) - 🌊 A crazy simple library for reading/writing WAV files in V.
 * [vspeech](https://github.com/thecodrr/vspeech) - 📢 Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📜
-
-### Text processing
-* [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
-* [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
-* [crayon](https://github.com/thecodrr/crayon) - 🖍️ Paint your terminal output like Picasso 🎨
 
 ### Automation
 * [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
