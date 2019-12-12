@@ -31,6 +31,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
   * [Tutorials](#tutorials)
   * [Online IDEs](#online-ides-with-v)
   * [Articles](#articles)
+  * [Programming Languages](#programming-languages)
   * [Community](#community)
   * [Forums](#forums)
 
@@ -116,35 +117,31 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ## Other
 
 ### Videos
-
 * [V Lang Programming](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
 
 ### Programming contests
-
 * [rosetta-code-v](https://github.com/RustemB/rosetta-code-v) - Solutions for Rosetta Code in V.
 
 ### Tutorials
-
 * [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
 * [V by Example](https://github.com/v-community/v_by_example) as [GitBook](https://v-community.gitbook.io/v-by-example/)
 * [V learning notes](https://github.com/lydiandy/vlang_note) - personal learning notes in Chinese.
 
 
 ### Online IDEs with V
-
 * [V Playground](https://vlang.io/play)
 * [Judge0](https://ide.judge0.com/)
 
-## Articles
-
+### Articles
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
 * [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
 
-## Community
+### Programming Languages
+* [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V
 
+### Community
 * [V Community](https://github.com/v-community)
 
 ### Forums
-
 * [r/vlang](https://www.reddit.com/r/vlang)
 * [stackoverflow](https://stackoverflow.com/questions/tagged/vlang)
