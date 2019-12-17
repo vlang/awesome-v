@@ -5,7 +5,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ## Table of contents
 * [Applications](#applications)
   * [Package manager](#package-manager)
-  * [Interpreters/Compilers](#interpreters-compilers)  
+  * [Interpreters/Compilers](#interpreters-compilers)
   * [Editors](#editors)
   * [Web](#web)
   * [Graphics](#graphics)
@@ -58,6 +58,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Games
 * [Vlang the Game](https://github.com/gabixdev/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun.
+* [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server 
 
 ### Command-line
 * [HN-top](https://github.com/BafS/hn-top) – A simple command to list most recent news from hacker-news
