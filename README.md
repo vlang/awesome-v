@@ -17,6 +17,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
   * [Command-line](#command-line)
   * [Text processing](#text-processing)
   * [Graphics](#graphics-1)
+  * [Web](#web-1)
   * [Audio](#audio)
   * [Operating System](#operating-system)
   * [Automation](#automation)
@@ -51,7 +52,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Web
 * [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V
 * [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
-* [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
 
 ### Graphics
 * [raytracer](https://github.com/ali-raheem/vraytracer)
@@ -71,6 +71,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Syntax highlighting
 * [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
 * [vim-v](https://github.com/lcolaholicl/vim-v) - Vim syntax highlighter for V programming language.
+* [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 * [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
 * [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/)
 * [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html)
@@ -90,9 +91,16 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Graphics
 * [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
 
+### Web
+* [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
+* [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra
+* [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
+* [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
+
 ### Audio
 * [vave](https://github.com/thecodrr/vave) - 🌊 A crazy simple library for reading/writing WAV files in V.
 * [vspeech](https://github.com/thecodrr/vspeech) - 📢 Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📜
+* [v-miniaudio](https://github.com/Larpon/v-miniaudio) - Bindings for the excellent miniaudio C audio library
 
 ### Operating System
 * [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
