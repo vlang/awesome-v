@@ -90,6 +90,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Graphics
 * [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
+* [vsdl2](https://github.com/nsauzede/vsdl2) - libSDL2 wrapper
 
 ### Web
 * [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
@@ -123,6 +124,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### User Interface (UI) Toolkits
 * [V UI](https://github.com/vlang/v/tree/master/vlib/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
+* [vgtk3](https://github.com/zenith391/vgtk3) - A wrapper for GTK3 in V
+* [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit
+* [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit
 
 ## Other
 
