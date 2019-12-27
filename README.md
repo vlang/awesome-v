@@ -45,6 +45,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Interpreters/Compilers  
 * [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software. 
 * [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
+* [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V
+* [vcc](https://github.com/lemoncmd/vcc) - a C compiler written in V.
 
 ### Editors
 * [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
@@ -151,7 +153,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
 
 ### Programming Languages
-* [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V
+
 
 ### Community
 * [V Community](https://github.com/v-community)
