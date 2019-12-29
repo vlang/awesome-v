@@ -26,6 +26,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
   * [Game Development](#game-development)
   * [Eventing](#eventing)
   * [UI Toolkits](#user-interface-ui-toolkits)
+  * [Scientific Computing](#scientific-computing)
 * [Other](#other)
   * [Videos](#videos)
   * [Programming contests](#programming-contests)
@@ -130,6 +131,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [vgtk3](https://github.com/zenith391/vgtk3) - A wrapper for GTK3 in V.
 * [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
 * [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
+
+### Scientific Computing
+* [vsl](https://github.com/ulises-jeremias/vsl) - A pure-V scientific library with a great variety of functions.
 
 ## Other
 
