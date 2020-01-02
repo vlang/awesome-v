@@ -4,7 +4,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## Table of contents
 * [Applications](#applications)
-  * [Package manager](#package-manager)
+  * [Package managers](#package-managers)
   * [Interpreters/Compilers](#interpreters-compilers)
   * [Editors](#editors)
   * [Web](#web)
@@ -46,7 +46,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [vcc](https://github.com/lemoncmd/vcc) - a C compiler written in V.
 * [Vork](https://github.com/Itay2805/Vork) - alternative V compiler/interpreter written in Python.
 
-### Package manager
+### Package managers
 * [vpkg](https://github.com/vpkg-project/vpkg) - An alternative package manager for V.
 * [vpm](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
 
