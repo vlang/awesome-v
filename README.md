@@ -153,6 +153,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Online IDEs with V
 * [V Playground](https://vlang.io/play)
 * [Judge0](https://ide.judge0.com/)
+* [DevBits V Playground](https://devbits.app/play?lang=v&code64=Zm4gbWFpbigpIHsKCWFyZWFzIDo9IFsnZ2FtZScsICd3ZWInLCAndG9vbHMnLCAnc2NpZW5jZScsICdzeXN0ZW1zJywgJ2VtYmVkZGVkJywgJ2RyaXZlcnMnLCAnR1VJJywgJ21vYmlsZSddIAoJZm9yIGFyZWEgaW4gYXJlYXMgewoJCXByaW50bG4oJ0hlbGxvLCAkYXJlYSBkZXZlbG9wZXJzIScpCgl9Cn0K)
 
 ### Articles
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
