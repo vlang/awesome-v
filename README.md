@@ -39,8 +39,17 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## Applications
 
+master
 ### Interpreters/Compilers
 * [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
+
+### Package manager
+* [vpkg](https://github.com/vpkg-project/vpkg) - An alternative package manager for V.
+* [vpm](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
+
+### Interpreters/Compilers  
+* [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software. 
+
 * [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 * [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 * [vcc](https://github.com/lemoncmd/vcc) - a C compiler written in V.
@@ -96,6 +105,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
 * [vsdl2](https://github.com/nsauzede/vsdl2) - libSDL2 wrapper.
 
+
 ### Web
 * [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
 * [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
@@ -109,6 +119,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Operating System
 * [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
+
+### Text processing
+* [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
+* [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
+* [crayon](https://github.com/thecodrr/crayon) - 🖍️ Paint your terminal output like Picasso 🎨
+
 
 ### Automation
 * [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
