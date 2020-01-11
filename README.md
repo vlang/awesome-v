@@ -5,7 +5,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ## Table of contents
 * [Applications](#applications)
   * [Package managers](#package-managers)
-  * [Interpreters/Compilers](#interpreters-compilers)
+  * [Interpreters/Compilers](#interpreterscompilers)
   * [Editors](#editors)
   * [Web](#web)
   * [Graphics](#graphics)
