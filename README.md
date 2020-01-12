@@ -1,13 +1,13 @@
 <p align="center"><img src="media/awesome-v.png" width="350"/></p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome V frameworks, libraries, software and resources.
 
-## Table of contents
+## Contents
 * [Applications](#applications)
-  * [Package managers](#package-managers)
   * [Interpreters/Compilers](#interpreterscompilers)
+  * [Package managers](#package-managers)
   * [Editors](#editors)
   * [Web](#web)
   * [Graphics](#graphics)
@@ -16,7 +16,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
   * [Project Management](#project-management)
 * [Libraries](#libraries)
   * [Syntax highlighting](#syntax-highlighting)
-  * [Command-line](#command-line)
+  * [Command Line Interface](#command-line-interface)
   * [Text processing](#text-processing)
   * [Graphics](#graphics-1)
   * [Web](#web-1)
@@ -27,15 +27,14 @@ A curated list of awesome V frameworks, libraries, software and resources.
   * [Files](#files)
   * [Game Development](#game-development)
   * [Eventing](#eventing)
-  * [UI Toolkits](#user-interface-ui-toolkits)
+  * [User Interface Toolkits](#user-interface-toolkits)
   * [Scientific Computing](#scientific-computing)
 * [Other](#other)
   * [Videos](#videos)
   * [Programming contests](#programming-contests)
   * [Tutorials](#tutorials)
-  * [Online IDEs](#online-ides-with-v)
+  * [Online IDEs with V](#online-ides-with-v)
   * [Articles](#articles)
-  * [Programming Languages](#programming-languages)
   * [Community](#community)
   * [Forums](#forums)
 
@@ -45,8 +44,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
 * [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 * [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
-* [vcc](https://github.com/lemoncmd/vcc) - a C compiler written in V.
-* [Vork](https://github.com/Itay2805/Vork) - alternative V compiler/interpreter written in Python.
+* [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
+* [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
 
 ### Package managers
 * [vpkg](https://github.com/vpkg-project/vpkg) - An alternative package manager for V.
@@ -67,7 +66,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 
 ### Command-line
-* [HN-top](https://github.com/BafS/hn-top) – A simple command to list most recent news from hacker-news.
+* [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 
 ### Project Management
 * [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
@@ -76,27 +75,26 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Syntax highlighting
 * [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
-* [vim-v](https://github.com/lcolaholicl/vim-v) - Vim syntax highlighter for V programming language.
 * [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 * [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
 * [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
 * [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
 * [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
 
-### Command-line
+### Command Line Interface
 * [v-args](https://github.com/nedpals/v-args) - V library for parsing arguments from argv-like arrays.
 * [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
-* [boxx](https://github.com/thecodrr/boxx) - 📦 Create highly customizable terminal boxes that also look great!
+* [boxx](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
 * [lol](https://github.com/zmeriksen/lol) - V version of lolcat (text/character rainbowizer).
 
 ### Text processing
 * [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
 * [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
-* [crayon](https://github.com/thecodrr/crayon) - 🖍️ Paint your terminal output like Picasso. 🎨
+* [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 
 ### Graphics
 * [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
-* [vsdl2](https://github.com/nsauzede/vsdl2) - libSDL2 wrapper.
+* [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 
 ### Web
 * [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
@@ -105,8 +103,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 * [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 
 ### Audio
-* [vave](https://github.com/thecodrr/vave) - 🌊 A crazy simple library for reading/writing WAV files in V.
-* [vspeech](https://github.com/thecodrr/vspeech) - 📢 Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📜
+* [vave](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
+* [vspeech](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
 * [v-miniaudio](https://github.com/Larpon/v-miniaudio) - Bindings for the excellent miniaudio C audio library.
 
 ### Operating System
@@ -128,15 +126,15 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Eventing
 * [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V.
 
-### User Interface (UI) Toolkits
-* [V UI](https://github.com/vlang/v/tree/master/vlib/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
+### User Interface Toolkits
+* [V UI](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 * [vgtk3](https://github.com/zenith391/vgtk3) - A wrapper for GTK3 in V.
 * [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
 * [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
 
 ### Scientific Computing
 * [vsl](https://github.com/ulises-jeremias/vsl) - A pure-V scientific library with a great variety of functions.
-* [vnum](https://github.com/vlang-num/vnum) - Numerical computing library supporting n-dimensional data, backed by LAPACK and BLAS
+* [vnum](https://github.com/vlang-num/vnum) - Numerical computing library supporting n-dimensional data, backed by LAPACK and BLAS.
 
 ## Other
 
@@ -148,8 +146,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Tutorials
 * [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
-* [V by Example](https://github.com/v-community/v_by_example) as [GitBook](https://v-community.gitbook.io/v-by-example/)
-* [V learning notes](https://github.com/lydiandy/vlang_note) - personal learning notes in Chinese.
+* [V by Example](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/)
+* [V learning notes](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
 
 ### Online IDEs with V
 * [V Playground](https://vlang.io/play)
@@ -165,4 +163,4 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Forums
 * [r/vlang](https://www.reddit.com/r/vlang)
-* [stackoverflow](https://stackoverflow.com/questions/tagged/vlang)
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/vlang)
