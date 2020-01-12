@@ -1,3 +1,5 @@
+<p align="center"><img src="media/awesome-v.png"/></p>
+
 # Awesome V
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
