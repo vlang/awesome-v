@@ -2,7 +2,7 @@
 
 # Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome V frameworks, libraries, software and resources.
+> A curated list of awesome V frameworks, libraries, software and resources.
 
 ## Contents
 * [Applications](#applications)
