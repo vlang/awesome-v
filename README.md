@@ -137,6 +137,7 @@
 - [vnum](https://github.com/vlang-num/vnum) - Numerical computing library supporting n-dimensional data, backed by LAPACK and BLAS.
 
 ## Other
+- V LSP server https://github.com/nedpals/lsp.v
 
 ### Videos
 - [V Lang Programming](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
