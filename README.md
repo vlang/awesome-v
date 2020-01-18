@@ -4,6 +4,8 @@
 
 > A curated list of awesome V frameworks, libraries, software and resources.
 
+V is a simple, fast, safe, compiled language for developing maintainable software.
+
 ## Contents
 - [Applications](#applications)
   - [Interpreters/Compilers](#interpreterscompilers)
