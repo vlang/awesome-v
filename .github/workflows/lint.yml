@@ -1,0 +1,17 @@
+name: Lint
+on:
+  push:
+    branches: [master]
+  pull_request:
+    types: [opened, synchronize]
+jobs:
+  test:
+    name: Run awesome linter
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 12.13.1
+    - run: npm install -g awesome-lint
+    - run: awesome-lint README.md
