@@ -38,7 +38,7 @@
   - [Tutorials](#tutorials)
   - [Online IDEs with V](#online-ides-with-v)
   - [Articles](#articles)
-  - [Community](#community)
+  - [Communities](#communities)
   - [Forums](#forums)
 
 ## Applications
