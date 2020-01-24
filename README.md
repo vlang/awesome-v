@@ -34,7 +34,7 @@
   - [Scientific Computing](#scientific-computing)
 - [Other](#other)
   - [Videos](#videos)
-  - [Programming contests](#programming-contests)
+  - [Programming Contests](#programming-contests)
   - [Tutorials](#tutorials)
   - [Online IDEs with V](#online-ides-with-v)
   - [Articles](#articles)
@@ -104,7 +104,7 @@
 
 - [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
 - [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
-- [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso 🖍️🎨
+- [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 
 ### Graphics
 
@@ -120,8 +120,8 @@
 
 ### Audio
 
-- [vave](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V 🌊
-- [vspeech](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library 📢📜
+- [vave](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
+- [vspeech](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
 - [v-miniaudio](https://github.com/Larpon/v-miniaudio) - Bindings for the excellent miniaudio C audio library.
 
 ### Operating System
