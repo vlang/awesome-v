@@ -158,7 +158,7 @@
 
 ### Scientific Computing
 
-- [vsl](https://github.com/ulises-jeremias/vsl) - A pure-V scientific library with a great variety of functions.
+- [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions.
 - [vnum](https://github.com/vlang-num/vnum) - Numerical computing library supporting n-dimensional data, backed by LAPACK and BLAS.
 
 ## Other
