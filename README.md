@@ -23,6 +23,7 @@
   - [Text processing](#text-processing)
   - [Graphics](#graphics-1)
   - [Web](#web-1)
+  - [Database clients](#database-clients)
   - [Audio](#audio)
   - [Operating System](#operating-system)
   - [Automation](#automation)
@@ -117,6 +118,10 @@
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
+
+### Database clients
+
+- [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
 
 ### Audio
 
