@@ -72,7 +72,7 @@
 
 ### Games
 
-- [Vlang the Game](https://github.com/gabixdev/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun.
+- [Vlang the Game](https://github.com/alula/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun.
 - [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 
 ### Command-line
@@ -96,10 +96,10 @@
 
 ### Command Line Interface
 
-- [v-args](https://github.com/nedpals/v-args) - V library for parsing arguments from argv-like arrays.
+- [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays.
 - [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
 - [boxx](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
-- [lol](https://github.com/zmeriksen/lol) - V version of lolcat (text/character rainbowizer).
+- [lol](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
 
 ### Text processing
 
