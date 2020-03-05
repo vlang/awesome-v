@@ -78,7 +78,7 @@
 ### Command-line
 
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
-
+- [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 ### Project Management
 
 - [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
