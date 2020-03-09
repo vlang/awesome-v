@@ -106,6 +106,7 @@
 - [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
 - [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
 - [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
+- [cjson](https://github.com/lydiandy/cjson) - wrap cJSON for vlang
 
 ### Graphics
 
