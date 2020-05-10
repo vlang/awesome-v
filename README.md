@@ -169,7 +169,7 @@
 ## Other
 
 - [lsp.v](https://github.com/nedpals/lsp.v) - Implementation of the Language Server Protocol spec on V.
-
+- [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) - Github action automation to use v in your workflow.
 ### Videos
 
 - [V Programming Language](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
