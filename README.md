@@ -35,6 +35,7 @@
   - [Eventing](#eventing)
   - [User Interface Toolkits](#user-interface-toolkits)
   - [Scientific Computing](#scientific-computing)
+  - [Utility](#utility)
 - [Other](#other)
   - [Videos](#videos)
   - [Programming Contests](#programming-contests)
@@ -170,11 +171,15 @@
 - [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions.
 - [vnum](https://github.com/vlang-num/vnum) - Numerical computing library supporting n-dimensional data, backed by LAPACK and BLAS.
 
+### Utility
+
+- [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
+
+
 ## Other
 
 - [lsp.v](https://github.com/nedpals/lsp.v) - Implementation of the Language Server Protocol spec on V.
 - [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) - GitHub action automation to use V in your workflow.
-- [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 
 ### Videos
 
