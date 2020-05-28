@@ -81,6 +81,7 @@
 
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
+
 ### Project Management
 
 - [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
@@ -173,6 +174,8 @@
 
 - [lsp.v](https://github.com/nedpals/lsp.v) - Implementation of the Language Server Protocol spec on V.
 - [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) - GitHub action automation to use V in your workflow.
+- [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
+
 ### Videos
 
 - [V Programming Language](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
