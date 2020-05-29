@@ -175,7 +175,6 @@
 
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 
-
 ## Other
 
 - [lsp.v](https://github.com/nedpals/lsp.v) - Implementation of the Language Server Protocol spec on V.
@@ -188,7 +187,6 @@
 ### Programming Contests
 
 - [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - Solutions for Rosetta Code in V.
-
 - [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - Solution of Advent of Code 2019 in V.
 
 ### Tutorials
