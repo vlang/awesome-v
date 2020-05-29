@@ -20,7 +20,6 @@
   - [Command-line](#command-line)
   - [Project management](#project-management)
 - [Libraries](#libraries)
-  - [Syntax highlighting](#syntax-highlighting)
   - [Command line interface](#command-line-interface)
   - [Text processing](#text-processing)
   - [Graphics](#graphics-1)
@@ -37,6 +36,8 @@
   - [Scientific computing](#scientific-computing)
   - [Utility](#utility)
 - [Other](#other)
+  - [Syntax highlighting](#syntax-highlighting)
+  - [GitHub actions](#github-actions)
   - [Videos](#videos)
   - [Programming contests](#programming-contests)
   - [Tutorials](#tutorials)
@@ -88,15 +89,6 @@
 - [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
 
 ## Libraries
-
-### Syntax highlighting
-
-- [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
-- [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
-- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
-- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
-- [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
-- [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
 
 ### Command line interface
 
@@ -177,7 +169,17 @@
 
 ## Other
 
-- [lsp.v](https://github.com/nedpals/lsp.v) - Implementation of the Language Server Protocol spec on V.
+### Syntax highlighting
+
+- [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
+- [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
+- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
+- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
+- [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
+- [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
+
+### GitHub actions
+
 - [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) - GitHub action automation to use V in your workflow.
 
 ### Videos
