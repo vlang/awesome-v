@@ -19,6 +19,7 @@
   - [Games](#games)
   - [Command-line](#command-line)
   - [Project management](#project-management)
+  - [Serialization](#serialization)
 - [Libraries](#libraries)
   - [Command line interface](#command-line-interface)
   - [Text processing](#text-processing)
@@ -87,6 +88,10 @@
 ### Project management
 
 - [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
+
+### Serialization
+
+- [protoc-v](https://github.com/emily33901/protoc-v) - Protobuf compiler and plugin for V.
 
 ## Libraries
 
