@@ -19,10 +19,10 @@
   - [Games](#games)
   - [Command-line](#command-line)
   - [Project management](#project-management)
+  - [Serialization](#serialization)
 - [Libraries](#libraries)
   - [Command line interface](#command-line-interface)
   - [Text processing](#text-processing)
-  - [Serialization](#serialization)
   - [Graphics](#graphics-1)
   - [Web](#web-1)
   - [Database clients](#database-clients)
@@ -89,6 +89,10 @@
 
 - [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
 
+### Serialization
+
+- [protoc-v](https://github.com/emily33901/protoc-v) - Protobuf compiler and plugin for V.
+
 ## Libraries
 
 ### Command line interface
@@ -104,10 +108,6 @@
 - [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
 - [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
-
-### Serialization
-
-- [protoc-v](https://github.com/emily33901/protoc-v) - Protobuf compiler and plugin for V.
 
 ### Graphics
 
