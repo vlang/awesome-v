@@ -171,6 +171,7 @@
 ### Utility
 
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
+- [random](https://github.com/Delta456/random) - An all purpose random library written in V.
 
 ## Other
 
