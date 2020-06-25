@@ -84,6 +84,7 @@
 
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
+- [symlinker](https://github.com/Serkonda/symlinker) - A small Linux tool to manage symlinks.
 
 ### Project management
 
