@@ -198,6 +198,7 @@
 
 - [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - Solutions for Rosetta Code in V.
 - [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - Solution of Advent of Code 2019 in V.
+- [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - Implementation of the SoloLearn coding challenges in V.
 
 ### Tutorials
 
