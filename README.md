@@ -30,6 +30,7 @@
   - [Operating system](#operating-system)
   - [Automation](#automation)
   - [Telegram](#telegram)
+  - [IRC](#irc)
   - [Files](#files)
   - [Game development](#game-development)
   - [Eventing](#eventing)
@@ -145,6 +146,10 @@
 ### Telegram
 
 - [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
+
+### IRC
+
+- [vitric](https://github.com/m-242/vitric) - A transparent IRC library
 
 ### Files
 
