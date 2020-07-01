@@ -149,7 +149,7 @@
 
 ### IRC
 
-- [vitric](https://github.com/m-242/vitric) - A transparent IRC library
+- [vitric](https://github.com/m-242/vitric) - A transparent IRC library.
 
 ### Files
 
