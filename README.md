@@ -30,6 +30,7 @@
   - [Operating system](#operating-system)
   - [Automation](#automation)
   - [Telegram](#telegram)
+  - [IRC](#irc)
   - [Files](#files)
   - [Game development](#game-development)
   - [Eventing](#eventing)
@@ -85,6 +86,7 @@
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 - [symlinker](https://github.com/Serkonda/symlinker) - A small Linux tool to manage symlinks.
+- [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 
 ### Project management
 
@@ -126,6 +128,7 @@
 ### Database clients
 
 - [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
+- [vsql](https://github.com/lydiandy/vsql) - A sql query builder for V.
 
 ### Audio
 
@@ -145,6 +148,10 @@
 ### Telegram
 
 - [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
+
+### IRC
+
+- [vitric](https://github.com/m-242/vitric) - A transparent IRC library.
 
 ### Files
 
@@ -208,7 +215,7 @@
 
 ### Online IDEs with V
 
-- [V Playground](https://vlang.io/play)
+- [V Playground](https://v-wasm.now.sh/)
 - [DevBits V Playground](https://devbits.app/play?lang=v&code64=Zm4gbWFpbigpIHsKCWFyZWFzIDo9IFsnZ2FtZScsICd3ZWInLCAndG9vbHMnLCAnc2NpZW5jZScsICdzeXN0ZW1zJywgJ2VtYmVkZGVkJywgJ2RyaXZlcnMnLCAnR1VJJywgJ21vYmlsZSddIAoJZm9yIGFyZWEgaW4gYXJlYXMgewoJCXByaW50bG4oJ0hlbGxvLCAkYXJlYSBkZXZlbG9wZXJzIScpCgl9Cn0K)
 
 ### Articles
