@@ -65,6 +65,7 @@
 
 ### Editors
 
+- [v-mode](https://github.com/damon-kwok/v-mode) - An Emacs major mode for the V programming language.
 - [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 
 ### Web
