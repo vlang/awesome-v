@@ -88,7 +88,7 @@
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 - [symlinker](https://github.com/Serkonda/symlinker) - A small Linux tool to manage symlinks.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
-
+- [vlite](https://github.com/snow-blade/vlite) - A lightweight package manager for the [lite](https://github.com/rxi/lite) text editor
 ### Project management
 
 - [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
