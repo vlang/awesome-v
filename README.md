@@ -71,6 +71,7 @@
 ### Web
 
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
+- [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
 
 ### Graphics
