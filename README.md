@@ -71,6 +71,7 @@
 ### Web
 
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
+- [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
 
 ### Graphics
@@ -79,7 +80,7 @@
 
 ### Games
 
-- [Vlang the Game](https://github.com/alula/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun.
+- [Vlang the Game](https://github.com/alula/vlang-the-game) - A little platformer written in V with vSDL2, made purely for memes and fun.
 - [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 
 ### Command-line
