@@ -80,7 +80,7 @@
 
 ### Games
 
-- [Vlang the Game](https://github.com/alula/vlang-the-game) - A little platformer written in V with [vSDL2](https://github.com/nsauzede/vsdl2), made purely for memes and fun.
+- [Vlang the Game](https://github.com/alula/vlang-the-game) - A little platformer written in V with [vSDL2], made purely for memes and fun.
 - [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 
 ### Command-line
