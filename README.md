@@ -126,6 +126,7 @@
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
+- [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser
 
 ### Database clients
 
