@@ -97,7 +97,7 @@
 
 ### Serialization
 
-- [protoc-v](https://github.com/emily33901/protoc-v) - Protobuf compiler and plugin for V.
+- [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 
 ## Libraries
 
