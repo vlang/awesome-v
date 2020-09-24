@@ -196,6 +196,7 @@
 - [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
 - [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
 - [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
+- [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
 
 ### GitHub actions
 
