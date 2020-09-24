@@ -65,7 +65,6 @@
 
 ### Editors
 
-- [v-mode](https://github.com/damon-kwok/v-mode) - An Emacs major mode for the V programming language.
 - [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 
 ### Web
@@ -197,6 +196,7 @@
 - [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
 - [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
+- [v-mode](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
 
 ### GitHub actions
 
