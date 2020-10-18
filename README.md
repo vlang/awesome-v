@@ -132,6 +132,7 @@
 
 - [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
 - [vsql](https://github.com/lydiandy/vsql) - A sql query builder for V.
+- [vmemcached](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 
 ### Audio
 
