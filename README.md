@@ -118,6 +118,8 @@
 ### Graphics
 
 - [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
+- [viup](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
+- [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 
 ### Web
