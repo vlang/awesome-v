@@ -24,6 +24,7 @@
   - [Command line interface](#command-line-interface)
   - [Text processing](#text-processing)
   - [Graphics](#graphics-1)
+  - [Game development](#game-development)
   - [Web](#web-1)
   - [Database clients](#database-clients)
   - [Audio](#audio)
@@ -32,7 +33,6 @@
   - [Telegram](#telegram)
   - [IRC](#irc)
   - [Files](#files)
-  - [Game development](#game-development)
   - [Eventing](#eventing)
   - [User Interface toolkits](#user-interface-toolkits)
   - [Scientific computing](#scientific-computing)
@@ -121,6 +121,11 @@
 - [viup](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
 - [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
+- [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
+
+### Game development
+
+- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework.
 
 ### Web
 
@@ -162,10 +167,6 @@
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
-
-### Game development
-
-- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework.
 
 ### Eventing
 
