@@ -39,6 +39,7 @@
   - [Utility](#utility)
 - [Other](#other)
   - [Syntax highlighting](#syntax-highlighting)
+  - [Editor plugins](#editor-plugins)
   - [GitHub actions](#github-actions)
   - [Videos](#videos)
   - [Programming contests](#programming-contests)
@@ -204,6 +205,10 @@
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
 - [v-mode](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
 - [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
+
+### Editor plugins
+
+- [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
 
 ### GitHub actions
 
