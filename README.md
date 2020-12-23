@@ -130,6 +130,7 @@
 
 ### Web
 
+- [validate](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
 - [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
