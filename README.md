@@ -214,6 +214,7 @@
 ### GitHub actions
 
 - [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) - GitHub action automation to use V in your workflow.
+- [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
 
 ### Videos
 
