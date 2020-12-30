@@ -76,7 +76,7 @@
 
 ### Graphics
 
-- [raytracer](https://github.com/ali-raheem/vraytracer)
+- [vRayTracer](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
 ### Games
 
