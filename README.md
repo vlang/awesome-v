@@ -39,6 +39,7 @@
   - [Utility](#utility)
 - [Other](#other)
   - [Syntax highlighting](#syntax-highlighting)
+  - [Editor plugins](#editor-plugins)
   - [GitHub actions](#github-actions)
   - [Videos](#videos)
   - [Programming contests](#programming-contests)
@@ -75,13 +76,14 @@
 
 ### Graphics
 
-- [raytracer](https://github.com/ali-raheem/vraytracer)
+- [vRayTracer](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
 ### Games
 
 - [Vlang the Game](https://github.com/alula/vlang-the-game) - A little platformer written in V with vSDL2, made purely for memes and fun.
 - [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 - [v-pong](https://github.com/thebigsmileXD/v-pong) - A classic paddle game brought back to life through the power of V.
+- [flappylearning-v](https://github.com/uxnow/flappylearning-v) - A simple flappy learning demo in v.
 
 ### Command-line
 
@@ -89,6 +91,7 @@
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
+- [props](https://github.com/StunxFS/props) - Property support like Java for V.
 
 ### Project management
 
@@ -129,6 +132,7 @@
 
 ### Web
 
+- [validate](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
 - [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
@@ -182,7 +186,7 @@
 ### Scientific computing
 
 - [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions.
-- [vnum](https://github.com/vlang-num/vnum) - Numerical computing library supporting n-dimensional data, backed by LAPACK and BLAS.
+- [vtl](https://github.com/vlang/vtl) - Numerical computing library supporting n-dimensional data structure, backed by LAPACKE and OpenBLAS.
 
 ### Utility
 
@@ -201,10 +205,16 @@
 - [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
 - [v-mode](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
+- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
+
+### Editor plugins
+
+- [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
 
 ### GitHub actions
 
 - [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) - GitHub action automation to use V in your workflow.
+- [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
 
 ### Videos
 

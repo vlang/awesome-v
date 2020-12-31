@@ -13,5 +13,4 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: 12.13.1
-    - run: npm install -g awesome-lint
-    - run: awesome-lint README.md
+    - run: npx awesome-lint README.md
