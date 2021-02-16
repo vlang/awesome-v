@@ -80,10 +80,9 @@
 
 ### Games
 
-- [Vlang the Game](https://github.com/alula/vlang-the-game) - A little platformer written in V with vSDL2, made purely for memes and fun.
 - [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 - [v-pong](https://github.com/thebigsmileXD/v-pong) - A classic paddle game brought back to life through the power of V.
-- [flappylearning-v](https://github.com/uxnow/flappylearning-v) - A simple flappy learning demo in v.
+- [flappylearning-v](https://github.com/uxnow/flappylearning-v) - A simple flappy learning demo in v. ( Archived )
 
 ### Command-line
 
@@ -91,7 +90,7 @@
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
-- [props](https://github.com/StunxFS/props) - Property support like Java for V.
+- [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file.
 
 ### Project management
 
@@ -105,7 +104,7 @@
 
 ### Command line interface
 
-- [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays.
+- [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 - [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
 - [boxx](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
 - [lol](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
@@ -117,6 +116,7 @@
 - [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
+- [props](https://github.com/StunxFS/props) - Property support like Java for V.
 
 ### Graphics
 
@@ -132,12 +132,13 @@
 
 ### Web
 
-- [validate](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
-- [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
+- [validate](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
+- [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 - [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
+- [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 
 ### Database clients
 
@@ -218,7 +219,8 @@
 
 ### Videos
 
-- [V Programming Language](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
+- [V Programming Tutorials](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
+- [The V Programming Language](https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A)
 
 ### Programming contests
 
