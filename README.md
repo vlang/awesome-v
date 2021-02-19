@@ -90,7 +90,7 @@
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
-- [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CERDITS from LICENSE files of dependencies.
+- [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CDEITS from LICENSE files of dependencies.
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file.
 
 ### Project management
