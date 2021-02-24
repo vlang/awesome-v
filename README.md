@@ -31,7 +31,7 @@
   - [Operating system](#operating-system)
   - [Automation](#automation)
   - [Telegram](#telegram)
-  - [Discord](#Discord)
+  - [Discord](#discord)
   - [IRC](#irc)
   - [Files](#files)
   - [Eventing](#eventing)
