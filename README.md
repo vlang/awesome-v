@@ -31,6 +31,7 @@
   - [Operating system](#operating-system)
   - [Automation](#automation)
   - [Telegram](#telegram)
+  - [Discord](#Discord)
   - [IRC](#irc)
   - [Files](#files)
   - [Eventing](#eventing)
@@ -164,6 +165,11 @@
 ### Telegram
 
 - [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
+
+### Discord
+
+- [viscord](https://github.com/vlang/viscord) - Pretty basic library for connecting to the Discord gateway.
+- [discord.v](https://github.com/Terisback/discord.v) - User-friendly Discord bot library.
 
 ### IRC
 
