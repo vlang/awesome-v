@@ -218,6 +218,7 @@
 ### Editor plugins
 
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
+- [sublime-v](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
 
 ### GitHub actions
 
