@@ -140,7 +140,7 @@
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 - [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
-- [vcurrency](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for https://api.exchangeratesapi.io.
+- [vcurrency](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
 
 ### Database clients
 
