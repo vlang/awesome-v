@@ -62,7 +62,6 @@
 
 ### Package managers
 
-- [vpkg](https://github.com/vpkg-project/vpkg) - An alternative package manager for V.
 - [vpm](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
 
 ### Editors
