@@ -100,6 +100,7 @@
 ### Serialization
 
 - [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
+- [xml](https://github.com/radare/v-toxml) - XML Serialization library for V
 
 ## Libraries
 
