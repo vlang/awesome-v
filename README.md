@@ -21,7 +21,7 @@
   - [Project management](#project-management)
   - [Serialization](#serialization)
 - [Libraries](#libraries)
-  - [Command line interface](#command-line-interface)
+  - [Command line interface (CLI) / Terminal / Shell](#command-line-interface-cli-terminal-shell)
   - [Text processing](#text-processing)
   - [Graphics](#graphics-1)
   - [Game development](#game-development)
@@ -104,12 +104,15 @@
 
 ## Libraries
 
-### Command line interface
+### Command line interface (CLI) / Terminal / Shell
 
-- [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
-- [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
 - [boxx](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
 - [lol](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
+- [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
+- [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
+- [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
+
+
 
 ### Text processing
 
