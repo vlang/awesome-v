@@ -21,7 +21,7 @@
   - [Project management](#project-management)
   - [Serialization](#serialization)
 - [Libraries](#libraries)
-  - [Command Line Interface (CLI) / Terminal / Shell](#command-line-interface-cli--terminal--shell)
+  - [Command line interface (CLI) / Terminal / Shell](#command-line-interface-cli--terminal--shell)
   - [Text processing](#text-processing)
   - [Graphics](#graphics-1)
   - [Game development](#game-development)
