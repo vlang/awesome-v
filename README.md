@@ -60,6 +60,11 @@
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
 
+
+### Operating systems/Kernels
+
+- [Vinix](https://github.com/vlang/vinix) - Small and simple OS in V. Runs bash.
+
 ### Package managers
 
 - [vpm](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
