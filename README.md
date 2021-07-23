@@ -126,7 +126,7 @@
 - [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
-- [iconv](https://github.com/fanlia/iconv) - iconv for vlang.
+- [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
 
 ### Graphics
 
