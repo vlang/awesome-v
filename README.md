@@ -12,6 +12,7 @@
 
 - [Applications](#applications)
   - [Interpreters/Compilers](#interpreterscompilers)
+  - [Operating systems/Kernels](#operating-systemskernels)
   - [Package managers](#package-managers)
   - [Editors](#editors)
   - [Web](#web)
@@ -21,7 +22,7 @@
   - [Project management](#project-management)
   - [Serialization](#serialization)
 - [Libraries](#libraries)
-  - [Command line interface](#command-line-interface)
+  - [Command line interface (CLI) / Terminal / Shell](#command-line-interface-cli--terminal--shell)
   - [Text processing](#text-processing)
   - [Graphics](#graphics-1)
   - [Game development](#game-development)
@@ -31,6 +32,7 @@
   - [Operating system](#operating-system)
   - [Automation](#automation)
   - [Telegram](#telegram)
+  - [Discord](#discord)
   - [IRC](#irc)
   - [Files](#files)
   - [Eventing](#eventing)
@@ -59,9 +61,13 @@
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
 
+
+### Operating systems/Kernels
+
+- [Vinix](https://github.com/vlang/vinix) - Small and simple OS in V. Runs bash.
+
 ### Package managers
 
-- [vpkg](https://github.com/vpkg-project/vpkg) - An alternative package manager for V.
 - [vpm](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
 
 ### Editors
@@ -90,7 +96,9 @@
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
+- [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file.
+- [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 
 ### Project management
 
@@ -99,15 +107,19 @@
 ### Serialization
 
 - [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
+- [v-toxml](https://github.com/radare/v-toxml) - XML Serialization library for V.
 
 ## Libraries
 
-### Command line interface
+### Command line interface (CLI) / Terminal / Shell
 
-- [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
-- [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
 - [boxx](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
 - [lol](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
+- [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
+- [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
+- [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
+
+
 
 ### Text processing
 
@@ -116,7 +128,7 @@
 - [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
-- [props](https://github.com/StunxFS/props) - Property support like Java for V.
+- [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
 
 ### Graphics
 
@@ -139,6 +151,7 @@
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 - [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
+- [vcurrency](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
 
 ### Database clients
 
@@ -164,6 +177,11 @@
 ### Telegram
 
 - [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
+
+### Discord
+
+- [viscord](https://github.com/vlang/viscord) - Pretty basic library for connecting to the Discord gateway.
+- [discord.v](https://github.com/Terisback/discord.v) - User-friendly Discord bot library.
 
 ### IRC
 
@@ -193,6 +211,7 @@
 
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [random](https://github.com/Delta456/random) - An all purpose random library written in V.
+- [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 
 ## Other
 
@@ -211,6 +230,7 @@
 ### Editor plugins
 
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
+- [sublime-v](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
 
 ### GitHub actions
 
