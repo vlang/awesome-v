@@ -12,6 +12,7 @@
 
 - [Applications](#applications)
   - [Interpreters/Compilers](#interpreterscompilers)
+  - [Operating systems/Kernels](#operating-systemskernels)
   - [Package managers](#package-managers)
   - [Editors](#editors)
   - [Web](#web)
