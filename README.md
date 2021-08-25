@@ -109,6 +109,7 @@
 
 - [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 - [v-toxml](https://github.com/radare/v-toxml) - XML Serialization library for V.
+- [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
 
 ## Libraries
 
@@ -120,8 +121,6 @@
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 - [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 
-
-
 ### Text processing
 
 - [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
@@ -130,6 +129,7 @@
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 - [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
+- [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation 
 
 ### Graphics
 
@@ -170,6 +170,7 @@
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
+- [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows
 
 ### Automation
 
