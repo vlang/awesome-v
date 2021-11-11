@@ -30,6 +30,7 @@
   - [Database clients](#database-clients)
   - [Audio](#audio)
   - [Operating system](#operating-system)
+  - [Networking](#networking)
   - [Automation](#automation)
   - [Telegram](#telegram)
   - [Discord](#discord)
@@ -177,6 +178,10 @@
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
 - [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
+
+### Networking
+
+- [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library)
 
 ### Automation
 
