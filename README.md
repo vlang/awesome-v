@@ -50,7 +50,7 @@
   - [Articles](#articles)
   - [Communities](#communities)
   - [Forums](#forums)
-  - [Operating Systems & OS Development Examples](#Operating-Systems-OS-Development-Examples)
+  - [Operating Systems & OS Development Examples](#operating-systems--os-development-examples)
 
 ## Applications
 
