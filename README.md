@@ -50,6 +50,7 @@
   - [Articles](#articles)
   - [Communities](#communities)
   - [Forums](#forums)
+  - [Operating Systems & OS Development Examples](#Operating-Systems-OS-Development-Examples)
 
 ## Applications
 
@@ -280,3 +281,7 @@
 
 - [r/vlang](https://www.reddit.com/r/vlang)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/vlang)
+
+### Operating Systems & OS Development Examples
+
+- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - demonstration & test of writing a very simple Linux kernel module, using V.
