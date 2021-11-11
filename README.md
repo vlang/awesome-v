@@ -194,6 +194,7 @@
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
+- [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
 
 ### Eventing
 
