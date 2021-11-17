@@ -125,6 +125,7 @@
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 - [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 - [vesseract](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
+- [spinners](https://github.com/rhygg/spinners) - Create spinners in your terminal!
 
 ### Text processing
 
