@@ -49,7 +49,7 @@
   - [Tutorials](#tutorials)
   - [Online IDEs with V](#online-ides-with-v)
   - [Articles](#articles)
-  - [Books](#books)
+  - [Books](#books).
   - [Communities](#communities)
   - [Forums](#forums)
   - [Operating Systems & OS Development Examples](#operating-systems--os-development-examples)
