@@ -280,6 +280,7 @@
 
 - [An introduction to V](https://simonknott.de/articles/VLang.html)
 - [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
+- [Todo App with V](https://practicaldime.org/docs/v-fresh-take/v-todo-implementation)
 
 ### Books
 
