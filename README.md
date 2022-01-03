@@ -12,6 +12,7 @@
 
 - [Applications](#applications)
   - [Interpreters/Compilers](#interpreterscompilers)
+  - [Operating systems/Kernels](#operating-systemskernels)
   - [Package managers](#package-managers)
   - [Editors](#editors)
   - [Web](#web)
@@ -29,6 +30,7 @@
   - [Database clients](#database-clients)
   - [Audio](#audio)
   - [Operating system](#operating-system)
+  - [Networking](#networking)
   - [Automation](#automation)
   - [Telegram](#telegram)
   - [Discord](#discord)
@@ -47,8 +49,10 @@
   - [Tutorials](#tutorials)
   - [Online IDEs with V](#online-ides-with-v)
   - [Articles](#articles)
+  - [Books](#books).
   - [Communities](#communities)
   - [Forums](#forums)
+  - [Operating Systems & OS Development Examples](#operating-systems--os-development-examples)
 
 ## Applications
 
@@ -59,6 +63,12 @@
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
+- [Foxil](https://github.com/StunxFS/foxil) - An intermediate language designed to facilitate compiler code generation.
+
+
+### Operating systems/Kernels
+
+- [Vinix](https://github.com/vlang/vinix) - Small and simple OS in V. Runs bash.
 
 ### Package managers
 
@@ -73,6 +83,7 @@
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*. 
 
 ### Graphics
 
@@ -82,7 +93,9 @@
 
 - [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 - [v-pong](https://github.com/thebigsmileXD/v-pong) - A classic paddle game brought back to life through the power of V.
+- [minesweeper](https://github.com/ali-furkan/minesweeper-v) - A simple Minesweeper game written in vlang.
 - [flappylearning-v](https://github.com/uxnow/flappylearning-v) - A simple flappy learning demo in v. ( Archived )
+- [Kurarin](https://github.com/FireRedz/kurarin) - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 
 ### Command-line
 
@@ -91,6 +104,7 @@
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 - [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
+- [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 
 ### Project management
@@ -101,6 +115,7 @@
 
 - [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 - [v-toxml](https://github.com/radare/v-toxml) - XML Serialization library for V.
+- [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
 
 ## Libraries
 
@@ -111,8 +126,8 @@
 - [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 - [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
-
-
+- [vesseract](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
+- [spinners](https://github.com/rhygg/spinners) - Create spinners in your terminal!
 
 ### Text processing
 
@@ -121,6 +136,8 @@
 - [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
+- [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
+- [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
 
 ### Graphics
 
@@ -132,7 +149,9 @@
 
 ### Game development
 
-- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework.
+- [engine](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
+- [raylib.v](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
+- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
 
 ### Web
 
@@ -161,6 +180,11 @@
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
+- [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
+
+### Networking
+
+- [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 
 ### Automation
 
@@ -182,6 +206,7 @@
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
+- [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
 
 ### Eventing
 
@@ -198,6 +223,7 @@
 
 - [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions.
 - [vtl](https://github.com/vlang/vtl) - Numerical computing library supporting n-dimensional data structure, backed by LAPACKE and OpenBLAS.
+- [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 
 ### Utility
 
@@ -254,6 +280,11 @@
 
 - [An introduction to V](https://simonknott.de/articles/VLang.html)
 - [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
+- [Todo App with V](https://practicaldime.org/docs/v-fresh-take/v-todo-implementation)
+
+### Books
+
+- [Getting Started with V Programming - Navule Pavan Kumar Rao - Packt 2021 Dec](https://www.amazon.com/Getting-Started-Programming-end-end-ebook/dp/B09FKK3JL7/ref=sr_1_1?keywords=Getting+started+with+V+programming&qid=1639480830&sr=8-1) - Introductory book on V.
 
 ### Communities
 
@@ -263,3 +294,7 @@
 
 - [r/vlang](https://www.reddit.com/r/vlang)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/vlang)
+
+### Operating Systems & OS Development Examples
+
+- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.
