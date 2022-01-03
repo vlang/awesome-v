@@ -181,7 +181,7 @@
 
 ### Networking
 
-- [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library)
+- [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 
 ### Automation
 
@@ -289,4 +289,4 @@
 
 ### Operating Systems & OS Development Examples
 
-- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - demonstration & test of writing a very simple Linux kernel module, using V.
+- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.
