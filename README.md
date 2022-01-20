@@ -10,49 +10,52 @@
 
 ## Contents
 
-- [Applications](#applications)
-  - [Interpreters/Compilers](#interpreterscompilers)
-  - [Operating systems/Kernels](#operating-systemskernels)
-  - [Package managers](#package-managers)
-  - [Editors](#editors)
-  - [Web](#web)
-  - [Graphics](#graphics)
-  - [Games](#games)
-  - [Command-line](#command-line)
-  - [Project management](#project-management)
-  - [Serialization](#serialization)
-- [Libraries](#libraries)
-  - [Command line interface (CLI) / Terminal / Shell](#command-line-interface-cli--terminal--shell)
-  - [Text processing](#text-processing)
-  - [Graphics](#graphics-1)
-  - [Game development](#game-development)
-  - [Web](#web-1)
-  - [Database clients](#database-clients)
-  - [Audio](#audio)
-  - [Operating system](#operating-system)
-  - [Networking](#networking)
-  - [Automation](#automation)
-  - [Telegram](#telegram)
-  - [Discord](#discord)
-  - [IRC](#irc)
-  - [Files](#files)
-  - [Eventing](#eventing)
-  - [User Interface toolkits](#user-interface-toolkits)
-  - [Scientific computing](#scientific-computing)
-  - [Utility](#utility)
-- [Other](#other)
-  - [Syntax highlighting](#syntax-highlighting)
-  - [Editor plugins](#editor-plugins)
-  - [GitHub actions](#github-actions)
-  - [Videos](#videos)
-  - [Programming contests](#programming-contests)
-  - [Tutorials](#tutorials)
-  - [Online IDEs with V](#online-ides-with-v)
-  - [Articles](#articles)
-  - [Books](#books).
-  - [Communities](#communities)
-  - [Forums](#forums)
-  - [Operating Systems & OS Development Examples](#operating-systems--os-development-examples)
+- [Awesome V ![Awesome](https://awesome.re)](#awesome-v-)
+	- [Contents](#contents)
+	- [Applications](#applications)
+		- [Interpreters/Compilers](#interpreterscompilers)
+		- [Operating systems/Kernels](#operating-systemskernels)
+		- [Package managers](#package-managers)
+		- [Editors](#editors)
+		- [Web](#web)
+		- [Graphics](#graphics)
+		- [Games](#games)
+		- [Command-line](#command-line)
+		- [Project management](#project-management)
+		- [Serialization](#serialization)
+	- [Libraries](#libraries)
+		- [Command line interface (CLI) / Terminal / Shell](#command-line-interface-cli--terminal--shell)
+		- [Text processing](#text-processing)
+		- [Graphics](#graphics-1)
+		- [Game development](#game-development)
+		- [Web](#web-1)
+		- [Database clients](#database-clients)
+		- [Audio](#audio)
+		- [Operating system](#operating-system)
+		- [Networking](#networking)
+		- [Serial Communications](#serial-communications)
+		- [Automation](#automation)
+		- [Telegram](#telegram)
+		- [Discord](#discord)
+		- [IRC](#irc)
+		- [Files](#files)
+		- [Eventing](#eventing)
+		- [User Interface toolkits](#user-interface-toolkits)
+		- [Scientific computing](#scientific-computing)
+		- [Utility](#utility)
+	- [Other](#other)
+		- [Syntax highlighting](#syntax-highlighting)
+		- [Editor plugins](#editor-plugins)
+		- [GitHub actions](#github-actions)
+		- [Videos](#videos)
+		- [Programming contests](#programming-contests)
+		- [Tutorials](#tutorials)
+		- [Online IDEs with V](#online-ides-with-v)
+		- [Articles](#articles)
+		- [Books](#books)
+		- [Communities](#communities)
+		- [Forums](#forums)
+		- [Operating Systems & OS Development Examples](#operating-systems--os-development-examples)
 
 ## Applications
 
@@ -186,6 +189,11 @@
 
 - [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 
+### Serial Communications
+- [vserialport](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
+- [vserialx](https://github.com/erdetn/vserialx) - a tiny (wrapper) serial communication library for Linux written in V.
+- [vi2c](https://github.com/erdetn/vi2c) - a tiny (wrapper) library for I2C serial communication for Linux written in V.
+
 ### Automation
 
 - [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
@@ -238,7 +246,7 @@
 - [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
 - [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 - [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
-- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
+- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax higaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahlighting for [Kate](https://kate-editor.org/).
 - [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
 - [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
