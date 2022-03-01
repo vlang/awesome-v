@@ -236,6 +236,7 @@
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [random](https://github.com/Delta456/random) - An all purpose random library written in V.
 - [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
+- [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
 
 ## Other
 
