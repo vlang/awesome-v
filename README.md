@@ -139,6 +139,7 @@
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 - [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
+- [strfmt](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
 
 ### Graphics
 
@@ -147,6 +148,7 @@
 - [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
+- [vgui](https://github.com/BenStigsen/vgui) - Minimal, lightweight and cross-platform GUI library.
 
 ### Game development
 
