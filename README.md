@@ -107,6 +107,7 @@
 - [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
 - [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
+- [vLogQL](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
 
 ### Project management
 
