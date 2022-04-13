@@ -11,45 +11,49 @@
 ## Contents
 
 - [Applications](#applications)
-  - [Interpreters/Compilers](#interpreterscompilers)
-  - [Operating systems/Kernels](#operating-systemskernels)
-  - [Package managers](#package-managers)
-  - [Editors](#editors)
-  - [Web](#web)
-  - [Graphics](#graphics)
-  - [Games](#games)
-  - [Command-line](#command-line)
-  - [Project management](#project-management)
-  - [Serialization](#serialization)
+	- [Interpreters/Compilers](#interpreterscompilers)
+	- [Operating systems/Kernels](#operating-systemskernels)
+	- [Package managers](#package-managers)
+	- [Editors](#editors)
+	- [Web](#web)
+	- [Graphics](#graphics)
+	- [Games](#games)
+	- [Command-line](#command-line)
+	- [Project management](#project-management)
+	- [Serialization](#serialization)
 - [Libraries](#libraries)
-  - [Command line interface (CLI) / Terminal / Shell](#command-line-interface-cli--terminal--shell)
-  - [Text processing](#text-processing)
-  - [Graphics](#graphics-1)
-  - [Game development](#game-development)
-  - [Web](#web-1)
-  - [Database clients](#database-clients)
-  - [Audio](#audio)
-  - [Operating system](#operating-system)
-  - [Automation](#automation)
-  - [Telegram](#telegram)
-  - [Discord](#discord)
-  - [IRC](#irc)
-  - [Files](#files)
-  - [Eventing](#eventing)
-  - [User Interface toolkits](#user-interface-toolkits)
-  - [Scientific computing](#scientific-computing)
-  - [Utility](#utility)
+	- [Command line interface (CLI) / Terminal / Shell](#command-line-interface-cli--terminal--shell)
+	- [Text processing](#text-processing)
+	- [Graphics](#graphics-1)
+	- [Game development](#game-development)
+	- [Web](#web-1)
+	- [Database clients](#database-clients)
+	- [Audio](#audio)
+	- [Operating system](#operating-system)
+	- [Networking](#networking)
+	- [Serial Communications](#serial-communications)
+	- [Automation](#automation)
+	- [Telegram](#telegram)
+	- [Discord](#discord)
+	- [IRC](#irc)
+	- [Files](#files)
+	- [Eventing](#eventing)
+	- [User Interface toolkits](#user-interface-toolkits)
+	- [Scientific computing](#scientific-computing)
+	- [Utility](#utility)
 - [Other](#other)
-  - [Syntax highlighting](#syntax-highlighting)
-  - [Editor plugins](#editor-plugins)
-  - [GitHub actions](#github-actions)
-  - [Videos](#videos)
-  - [Programming contests](#programming-contests)
-  - [Tutorials](#tutorials)
-  - [Online IDEs with V](#online-ides-with-v)
-  - [Articles](#articles)
-  - [Communities](#communities)
-  - [Forums](#forums)
+	- [Syntax highlighting](#syntax-highlighting)
+	- [Editor plugins](#editor-plugins)
+	- [GitHub actions](#github-actions)
+	- [Videos](#videos)
+	- [Programming contests](#programming-contests)
+	- [Tutorials](#tutorials)
+	- [Online IDEs with V](#online-ides-with-v)
+	- [Articles](#articles)
+	- [Books](#books)
+	- [Communities](#communities)
+	- [Forums](#forums)
+	- [Operating Systems & OS Development Examples](#operating-systems--os-development-examples)
 
 ## Applications
 
@@ -60,6 +64,7 @@
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
+- [Foxil](https://github.com/StunxFS/foxil) - An intermediate language designed to facilitate compiler code generation.
 
 
 ### Operating systems/Kernels
@@ -79,6 +84,7 @@
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*. 
 
 ### Graphics
 
@@ -88,7 +94,9 @@
 
 - [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 - [v-pong](https://github.com/thebigsmileXD/v-pong) - A classic paddle game brought back to life through the power of V.
+- [minesweeper](https://github.com/ali-furkan/minesweeper-v) - A simple Minesweeper game written in vlang.
 - [flappylearning-v](https://github.com/uxnow/flappylearning-v) - A simple flappy learning demo in v. ( Archived )
+- [Kurarin](https://github.com/FireRedz/kurarin) - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 
 ### Command-line
 
@@ -97,8 +105,9 @@
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 - [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
-- [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file.
 - [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
+- [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
+- [vLogQL](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
 
 ### Project management
 
@@ -108,6 +117,7 @@
 
 - [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 - [v-toxml](https://github.com/radare/v-toxml) - XML Serialization library for V.
+- [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
 
 ## Libraries
 
@@ -118,8 +128,8 @@
 - [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 - [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
-
-
+- [vesseract](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
+- [spinners](https://github.com/rhygg/spinners) - Create spinners in your terminal!
 
 ### Text processing
 
@@ -129,6 +139,8 @@
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 - [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
+- [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
+- [strfmt](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
 
 ### Graphics
 
@@ -137,10 +149,13 @@
 - [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
+- [vgui](https://github.com/BenStigsen/vgui) - Minimal, lightweight and cross-platform GUI library.
 
 ### Game development
 
-- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for [raylib](https://www.raylib.com), the C game development framework.
+- [engine](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
+- [raylib.v](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
+- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
 
 ### Web
 
@@ -152,6 +167,7 @@
 - [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 - [vcurrency](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
+- [vigest](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
 
 ### Database clients
 
@@ -169,6 +185,16 @@
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
+- [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
+
+### Networking
+
+- [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
+
+### Serial Communications
+- [vserialport](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
+- [vserialx](https://github.com/erdetn/vserialx) - A tiny (wrapper) serial communication library for Linux written in V.
+- [vi2c](https://github.com/erdetn/vi2c) - A tiny (wrapper) library for I2C serial communication for Linux written in V.
 
 ### Automation
 
@@ -182,6 +208,7 @@
 
 - [viscord](https://github.com/vlang/viscord) - Pretty basic library for connecting to the Discord gateway.
 - [discord.v](https://github.com/Terisback/discord.v) - User-friendly Discord bot library.
+- [vord](https://github.com/9xN/vord) - Library for interacting with user account endpoints and gateway (Self-bots, custom clients, etc).
 
 ### IRC
 
@@ -190,6 +217,7 @@
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
+- [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
 
 ### Eventing
 
@@ -206,12 +234,14 @@
 
 - [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions.
 - [vtl](https://github.com/vlang/vtl) - Numerical computing library supporting n-dimensional data structure, backed by LAPACKE and OpenBLAS.
+- [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 
 ### Utility
 
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [random](https://github.com/Delta456/random) - An all purpose random library written in V.
 - [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
+- [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
 
 ## Other
 
@@ -262,6 +292,11 @@
 
 - [An introduction to V](https://simonknott.de/articles/VLang.html)
 - [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
+- [Todo App with V](https://practicaldime.org/docs/v-fresh-take/v-todo-implementation)
+
+### Books
+
+- [Getting Started with V Programming - Navule Pavan Kumar Rao - Packt 2021 Dec](https://www.amazon.com/Getting-Started-Programming-end-end-ebook/dp/B09FKK3JL7/ref=sr_1_1?keywords=Getting+started+with+V+programming&qid=1639480830&sr=8-1) - Introductory book on V.
 
 ### Communities
 
@@ -271,3 +306,7 @@
 
 - [r/vlang](https://www.reddit.com/r/vlang)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/vlang)
+
+### Operating Systems & OS Development Examples
+
+- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.
