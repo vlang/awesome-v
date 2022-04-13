@@ -64,7 +64,6 @@
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
-- [Foxil](https://github.com/StunxFS/foxil) - An intermediate language designed to facilitate compiler code generation.
 
 
 ### Operating systems/Kernels
