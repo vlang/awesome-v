@@ -77,6 +77,9 @@
 ### Editors
 
 - [ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
+- [vee](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
+- [text_editor](https://github.com/vlang/v/examples/term.ui/text_editor.v) - Small text editor from the official V examples.
+
 
 ### Web
 
