@@ -87,7 +87,7 @@
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
 - [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
-- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V
+- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
 
 ### Graphics
 
