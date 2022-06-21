@@ -41,6 +41,7 @@
 	- [User Interface toolkits](#user-interface-toolkits)
 	- [Scientific computing](#scientific-computing)
 	- [Utility](#utility)
+	- [Telecommunications](#telecommunications)
 - [Other](#other)
 	- [Syntax highlighting](#syntax-highlighting)
 	- [Editor plugins](#editor-plugins)
@@ -247,6 +248,10 @@
 - [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
 - [vexc](https://github.com/div72/vexc) - Exceptions for V using setjmp/longjmp.
+
+### Telecommunications
+
+- [vagi](https://github.com/Ouri028/vagi) - Asterisk FastAGI library in V.
 
 ## Other
 
