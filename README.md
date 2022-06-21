@@ -87,7 +87,7 @@
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
 - [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
-- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V
+- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
 
 ### Graphics
 
@@ -111,6 +111,7 @@
 - [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 - [vLogQL](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
+- [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
 
 ### Project management
 
