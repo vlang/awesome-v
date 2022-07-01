@@ -15,7 +15,7 @@
 	- [Operating systems/Kernels](#operating-systemskernels)
 	- [Package managers](#package-managers)
 	- [Editors](#editors)
-	- [Web](#web)
+	- [CMS](#cms)
 	- [Graphics](#graphics)
 	- [Games](#games)
 	- [Command-line](#command-line)
@@ -53,7 +53,6 @@
 	- [Articles](#articles)
 	- [Books](#books)
 	- [Communities](#communities)
-	- [Forums](#forums)
 	- [Operating Systems & OS Development Examples](#operating-systems--os-development-examples)
 
 ## Applications
@@ -81,14 +80,10 @@
 - [vee](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
 - [text_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) - Small text editor from the official V examples.
 
-
-### Web
+### CMS
 
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
-- [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
-- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
-- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
 
 ### Graphics
 
@@ -310,12 +305,12 @@
 ### Communities
 
 - [V Community](https://github.com/v-community)
-
-### Forums
-
 - [r/vlang](https://www.reddit.com/r/vlang)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/vlang)
 
 ### Operating Systems & OS Development Examples
 
 - [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.
+- [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
+- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
