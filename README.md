@@ -49,6 +49,7 @@
 	- [Videos](#videos)
 	- [Programming contests](#programming-contests)
 	- [Tutorials](#tutorials)
+	- [IDEs with V](#ides-with-v)
 	- [Online IDEs with V](#online-ides-with-v)
 	- [Articles](#articles)
 	- [Books](#books)
@@ -293,6 +294,10 @@
 - [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
 - [V by Example](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
 - [V learning notes](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
+
+### IDEs with V
+
+- [Vide](https://github.com/IsaiahPatton/Vide)
 
 ### Online IDEs with V
 
