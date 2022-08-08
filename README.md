@@ -66,6 +66,7 @@
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
+- [Stas](https://github.com/l1mey112/stas) - A werid little stack based programming language written in V, created to learn the ins and outs of compilers. 
 
 
 ### Operating systems/Kernels
