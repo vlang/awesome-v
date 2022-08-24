@@ -276,7 +276,7 @@
 
 ### GitHub actions
 
-- [setup-v](https://github.com/marketplace/actions/setup-vlang) - GitHub action to install and use V in your any of your workflow.
+- [setup-v](https://github.com/marketplace/actions/setup-vlang) - GitHub action to install and use V in your workflow.
 - [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
 
 ### Videos
