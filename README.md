@@ -118,7 +118,7 @@
 - [vLogQL](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
 - [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
 - [vqrcode](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
-- [verve](https://github.com/MohammadMD1383/verve) - Simple and fast static file server
+- [verve](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
 
 ### Project management
 
