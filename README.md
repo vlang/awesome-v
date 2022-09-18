@@ -93,6 +93,7 @@
 - [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
+- [vss](https://github.com/vssio/vss) - Easy-to-use static site generator.
 
 ### Graphics
 
