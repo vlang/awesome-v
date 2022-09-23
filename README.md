@@ -165,7 +165,7 @@
 - [V_sokol_gp](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol_gp library for easy and fast 2d graphics.
 
 ### Game development
-- [V_ecs](https://github.com/mohamedLT/V_ecs) - ecs library made in V inspired by bevy ecs.
+- [V_ecs](https://github.com/mohamedLT/V_ecs) - ECS library made in V inspired by Bevy ECS.
 - [engine](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 - [raylib.v](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
 - [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
