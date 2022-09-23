@@ -193,7 +193,7 @@
 
 - [vave](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
 - [vspeech](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
-- [v-miniaudio](https://github.com/Larpon/v-miniaudio) - Bindings for the excellent miniaudio C audio library.
+- [miniaudio](https://github.com/Larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
 
 ### Operating system
 
