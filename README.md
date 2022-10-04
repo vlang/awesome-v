@@ -112,6 +112,7 @@
 
 - [Lenra template](https://github.com/lenra-io/template-v) - The Lenra template to write V app for Lenra platform.
 - [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
+- [Lenra template](https://github.com/lenra-io/template-v) - The Lenra template to write V app for Lenra platform.
 
 ### Serialization
 
