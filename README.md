@@ -238,7 +238,6 @@
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
 - [strfmt](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
 - [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
-- [vgura](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 
 ### User Interface toolkits
 
