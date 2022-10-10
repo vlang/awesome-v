@@ -119,6 +119,7 @@
 - [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
 - [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 - [v-toxml](https://github.com/radare/v-toxml) - XML Serialization library for V.
+- [vgura](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 
 ### Web
 
@@ -191,6 +192,7 @@
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 - [V_sokol_gp](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol_gp library for easy and fast 2d graphics.
+- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writting programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurency and channels.
 
 ### IRC
 
@@ -209,8 +211,8 @@
 ### Scientific computing
 
 - [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
-- [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions.
-- [vtl](https://github.com/vlang/vtl) - Numerical computing library supporting n-dimensional data structure, backed by LAPACKE and OpenBLAS.
+- [vsl](https://github.com/vlang/vsl) - VSL is a Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, VSL also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
+- [vtl](https://github.com/vlang/vtl) - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
 
 ### Serial Communications
 
@@ -236,6 +238,7 @@
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
 - [strfmt](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
 - [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
+- [vgura](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 
 ### User Interface toolkits
 
