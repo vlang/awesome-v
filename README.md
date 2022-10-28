@@ -61,6 +61,7 @@
 
 ### Command-line
 
+- [crepl](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [portctl](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 - [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
@@ -94,8 +95,8 @@
 
 ### Interpreters/Compilers
 
+- [stas](https://github.com/l1mey112/stas) - A stack based compiled programming language. Takes inspiration from Forth with a modern syntax.
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
-- [Stas](https://github.com/l1mey112/stas) - A werid little stack based programming language written in V, created to learn the ins and outs of compilers.
 - [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
