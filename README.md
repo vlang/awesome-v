@@ -68,7 +68,6 @@
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
-- [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
 - [verve](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
 - [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 - [vLogQL](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
