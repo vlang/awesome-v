@@ -307,7 +307,8 @@
 
 ### Online IDEs with V
 
-- [V Playground](https://v-wasm.now.sh/)
+- [V Playground](https://play.vlang.io)
+- [V Playground (old)](https://v-wasm.now.sh/)
 
 ### Operating Systems & OS Development Examples
 
