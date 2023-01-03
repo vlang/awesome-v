@@ -290,6 +290,7 @@
 
 - [sublime-v](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
+- [IntelliJ V](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
 
 ### Forums
 
