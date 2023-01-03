@@ -289,6 +289,7 @@
 ### Editor plugins
 
 - [sublime-v](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
+- [vscode-vlang](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
 - [IntelliJ V](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
 
@@ -331,7 +332,6 @@
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
 - [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
 - [v-mode](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
-- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
 - [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
 
 ### Tutorials
