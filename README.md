@@ -237,7 +237,7 @@
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
 - [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
-- [pcre2](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions
+- [pcre2](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
 - [strfmt](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
 - [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
