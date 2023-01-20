@@ -290,9 +290,32 @@
 
 ### Editor plugins
 
+#### Atom
+
+- [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
+
+#### Emacs
+
+- [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
+- [v-mode](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
+
+#### Sublime Text 3
+
 - [sublime-v](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
+- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
+
+#### VS Code
+
 - [vscode-vlang](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
+
+#### Vim
+
+- [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
+- [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
+
+#### IntelliJ & CLion & GoLand etc.
+
 - [IntelliJ V](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
 
 ### Forums
@@ -328,13 +351,7 @@
 ### Syntax highlighting
 
 - [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
-- [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
 - [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
-- [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
-- [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
-- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
-- [v-mode](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
-- [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
 
 ### Tutorials
 
