@@ -314,7 +314,7 @@
 - [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
 
-#### IntelliJ & CLion & GoLand etc.
+#### IntelliJ & CLion & GoLand etc
 
 - [IntelliJ V](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
 
