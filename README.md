@@ -42,7 +42,6 @@
 	- [User Interface toolkits](#user-interface-toolkits)
 	- [Utility](#utility)
 	- [Web](#web-1)
-	- [DevOps](#devops)
 - [Other](#other)
 	- [Articles](#articles)
 	- [Books](#books)
@@ -57,6 +56,7 @@
 	- [Syntax highlighting](#syntax-highlighting)
 	- [Tutorials](#tutorials)
 	- [Videos](#videos)
+	- [GitHub templates](#github-templates)
 
 ## Applications
 
@@ -276,10 +276,6 @@
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 
-### DevOps
-
-- [v-project-basement](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
-
 ## Other
 
 ### Articles
@@ -370,3 +366,7 @@
 
 - [The V Programming Language](https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A)
 - [V Programming Tutorials](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
+
+### GitHub templates
+
+- [v-project-basement](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
