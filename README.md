@@ -42,6 +42,7 @@
 	- [User Interface toolkits](#user-interface-toolkits)
 	- [Utility](#utility)
 	- [Web](#web-1)
+	- [DevOps](#devops)
 - [Other](#other)
 	- [Articles](#articles)
 	- [Books](#books)
@@ -274,6 +275,10 @@
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
+
+### DevOps
+
+- [v-project-basement](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for V project.
 
 ## Other
 
