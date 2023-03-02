@@ -278,7 +278,7 @@
 
 ### DevOps
 
-- [v-project-basement](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for V project.
+- [v-project-basement](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
 
 ## Other
 
