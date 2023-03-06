@@ -95,6 +95,7 @@
 ### Graphics
 
 - [vRayTracer](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
+- [mpv-v](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
 
 ### Interpreters/Compilers
 
