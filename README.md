@@ -57,6 +57,7 @@
 	- [Tutorials](#tutorials)
 	- [Videos](#videos)
 	- [GitHub templates](#github-templates)
+	- [Patterns](#patterns)
 
 ## Applications
 
@@ -372,3 +373,7 @@
 ### GitHub templates
 
 - [v-project-basement](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
+
+### Patterns
+
+- [MVU.v](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
