@@ -260,7 +260,6 @@
 
 ### Utility
 
-- [random](https://github.com/Delta456/random) - An all purpose random library written in V.
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [ssh-config](https://github.com/walkingdevel/ssh-config) - A V library for parsing SSH config files.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
