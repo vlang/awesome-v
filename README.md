@@ -113,7 +113,7 @@
 
 ### Package managers
 
-- [vpm](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
+- [vpm](https://github.com/vlang/vpm) - The V language package management tool written in V.
 
 ### Project management
 
