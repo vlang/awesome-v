@@ -28,7 +28,7 @@
 	- [Database clients](#database-clients)
 	- [Discord](#discord)
 	- [Eventing](#eventing)
-	- [Files](#files)
+	- [Files](#Files)
 	- [Game development](#game-development)
 	- [Graphics](#graphics-1)
 	- [IRC](#irc)
