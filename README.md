@@ -246,9 +246,10 @@
 - [pcre2](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
 - [strfmt](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
+- [text-processing](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 - [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
 - [vxml](https://github.com/walkingdevel/vxml) - Pure V library for parsing XML to a DOM.
-- [text-processing](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
+- [whisker](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
 
 ### User Interface toolkits
 
