@@ -100,6 +100,7 @@
 
 ### Interpreters/Compilers
 
+- [vas](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
 - [stas](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
