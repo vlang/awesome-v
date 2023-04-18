@@ -77,7 +77,7 @@
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 - [vcli](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 - [vgoogle](https://github.com/changhz/vgoogle) - Make google search on the terminal.
-- [vzcc](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V
+- [vzcc](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 
 ### Editors
 
