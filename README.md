@@ -141,6 +141,7 @@
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vss](https://github.com/vssio/vss) - Easy-to-use static site generator.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
+- [v-admin-skeleton](https://github.com/xiusin/v-system-skeleton) - Backend skeleton developed with the V programming language.
 
 ## Libraries
 
