@@ -11,5 +11,6 @@ First of all, thanks for taking the time to contribute to this project!
 
 - Ensure your changes follows the [awesome list guidelines][guidelines].
 - Before submitting a PR make sure your changes are passed `awesome-lint`.
+- Your changes should be in alphabetical order within its category. If you are creating a new category, make sure that the categories are also alphabetized.
 
 [guidelines]: https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md#requirements-for-your-awesome-list
