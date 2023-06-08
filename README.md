@@ -109,6 +109,7 @@
 - [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
 - [vas](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
 - [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
+- [vfuck](https://github.com/ShayokhShorfuddin/VFuck) - A brainfuck interpreter written in V.
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
 
