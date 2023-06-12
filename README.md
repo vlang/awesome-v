@@ -209,6 +209,7 @@
 ### Networking
 
 - [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
+- [vibe](https://github.com/tobealive/vibe) - A libcurl binding with an easy-access layer for fast and reliable requests.
 
 ### Operating system
 
