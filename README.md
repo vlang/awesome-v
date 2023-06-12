@@ -28,9 +28,7 @@
 	- [Database clients](#database-clients)
 	- [Discord](#discord)
 	- [Eventing](#eventing)
-	<!--lint disable awesome-list-item-->
-	- [Files](#Files)
-	<!--lint enable awesome-list-item-->
+	- [File handling](#file-handling)
 	- [Game development](#game-development)
 	- [Graphics](#graphics-1)
 	- [IRC](#irc)
@@ -181,7 +179,7 @@
 
 - [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V.
 
-### Files
+### File handling
 
 - [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
 - [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
