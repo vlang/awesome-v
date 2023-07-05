@@ -252,8 +252,8 @@
 - [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
 - [pcre2](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
-- [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
 - [read_xlsx_v](https://github.com/fanlia/read_xlsx_v) - read xlsx using vlang.
+- [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
 - [slugify](https://github.com/Coachonko/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
 - [strfmt](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
 - [text-processing](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
