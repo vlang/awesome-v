@@ -161,7 +161,7 @@
 
 ### Command line interface (CLI) / Terminal / Shell
 
-- [bartender](https://github.com/tobealive/bartender) - Gluten free bars for V term apps.
+- [bartender](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
 - [boxx](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
 - [lol](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
 - [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
@@ -216,7 +216,7 @@
 
 ### Networking
 
-- [vibe](https://github.com/tobealive/vibe) - A libcurl binding with an easy-access layer for fast and reliable requests.
+- [vibe](https://github.com/tobealive/vibe) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 - [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 
 ### Operating system
