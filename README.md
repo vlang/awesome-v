@@ -172,7 +172,7 @@
 
 ### Database clients
 
-- [redis](https://github.com/Coachonko/redis) - Connect and interface with Redis-compatible databases
+- [redis](https://github.com/Coachonko/redis) - Connect and interface with Redis-compatible databases.
 - [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
 - [vmemcached](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 - [vsql](https://github.com/lydiandy/vsql) - A sql query builder for V.
