@@ -262,6 +262,7 @@
 - [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
 - [vxml](https://github.com/walkingdevel/vxml) - Pure V library for parsing XML to a DOM.
 - [whisker](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
+- [lexical_uuid](https://github.com/Coachonko/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
 
 ### User Interface toolkits
 
