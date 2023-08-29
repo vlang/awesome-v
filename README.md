@@ -276,7 +276,7 @@
 - [vgtk3](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
 - [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
 - [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
-- [VWebui](https://github.com/webui-dev/v-webui) - V Library that makes easy creating WebUI.
+- [V-WebUI](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
 
 ### Utility
 
