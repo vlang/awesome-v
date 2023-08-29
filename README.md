@@ -20,6 +20,7 @@
 	- [Package managers](#package-managers)
 	- [Project management](#project-management)
 	- [Serialization](#serialization)
+	- [Utilities](#utilities)
 	- [Web](#web)
 - [Libraries](#libraries)
 	- [Audio](#audio)
@@ -135,6 +136,10 @@
 - [vgura](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 - [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
 - [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
+
+### Utilities
+
+- [emoji-mart-desktop](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
 
 ### Web
 
@@ -277,6 +282,7 @@
 - [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
 - [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
 - [V-WebUI](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
+- [webview](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 
 ### Utility
 
