@@ -213,7 +213,7 @@
 - [viup](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
 - [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
-- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writting programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
+- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
 
 ### IRC
 
