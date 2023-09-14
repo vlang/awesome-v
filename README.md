@@ -290,6 +290,7 @@
 - [ssh-config](https://github.com/walkingdevel/ssh-config) - A V library for parsing SSH config files.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
 - [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
+- [vhs](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 - [VInstall](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
 
 ### Web
