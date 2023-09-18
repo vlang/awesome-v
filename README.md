@@ -188,6 +188,7 @@
 ### Discord
 
 - [discord.v](https://github.com/Terisback/discord.v) - User-friendly Discord bot library.
+- [discordwebhook](https://github.com/ysdragon/discordwebhook) - Super simple interface to send discord messages through webhooks.
 - [kitten](https://github.com/geniushq/kitten) - Simple Discord API library for writing bots.
 - [viscord](https://github.com/vlang/viscord) - Pretty basic library for connecting to the Discord gateway.
 - [vord](https://github.com/9xN/vord) - Library for interacting with user account endpoints and gateway (Self-bots, custom clients, etc).
