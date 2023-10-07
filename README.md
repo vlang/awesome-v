@@ -287,6 +287,7 @@
 
 ### Utility
 
+- [dialog](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
 - [objc](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [ssh-config](https://github.com/walkingdevel/ssh-config) - A V library for parsing SSH config files.
