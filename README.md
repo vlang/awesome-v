@@ -201,6 +201,7 @@
 
 - [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
 - [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
+- [vue-file-upload](https://github.com/canopas/vue-file-upload) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature
 
 ### Game development
 
