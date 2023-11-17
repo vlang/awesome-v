@@ -295,6 +295,8 @@
 - [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 - [vhs](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 - [VInstall](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
+- [votp](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
+
 
 ### Web
 
