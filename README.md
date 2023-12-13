@@ -352,10 +352,6 @@
 - [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
 
-#### IntelliJ & CLion & GoLand etc
-
-- [IntelliJ V](https://github.com/intellij-v/intellij-v) - Plugin for IntelliJ IDEA and other JetBrains IDEs.
-
 ### Forums
 
 - [r/vlang](https://www.reddit.com/r/vlang)
