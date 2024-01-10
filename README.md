@@ -132,6 +132,7 @@
 
 ### Serialization
 
+- [ini-v](https://github.com/ldedev/ini-v) - Simple and practical module for manipulating ini/cfg file.
 - [v-toxml](https://github.com/radare/v-toxml) - XML Serialization library for V.
 - [vgura](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 - [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
