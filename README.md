@@ -287,6 +287,7 @@
 ### Utility
 
 - [dialog](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
+- [json2v](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 - [objc](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [ssh-config](https://github.com/walkingdevel/ssh-config) - A V library for parsing SSH config files.
@@ -295,7 +296,6 @@
 - [vhs](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 - [VInstall](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
 - [votp](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
-- [json2v](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 
 
 ### Web
