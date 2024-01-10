@@ -136,6 +136,7 @@
 - [vgura](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 - [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
 - [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
+- [ini-v](https://github.com/ldedev/ini-v) - Simple and practical module for manipulating ini/cfg file.
 
 ### Utilities
 
