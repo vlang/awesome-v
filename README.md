@@ -295,6 +295,7 @@
 - [vhs](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 - [VInstall](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
 - [votp](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
+- [json2v](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 
 
 ### Web
