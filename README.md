@@ -12,6 +12,7 @@
 
 - [Applications](#applications)
 	- [Command-line](#command-line)
+	- [Aixt](https://github.com/fermarsan/aixt)
 	- [Editors](#editors)
 	- [Games](#games)
 	- [Graphics](#graphics)
