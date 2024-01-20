@@ -117,7 +117,6 @@
 - [vfuck](https://github.com/ShayokhShorfuddin/VFuck) - A brainfuck interpreter written in V.
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
-- [Aixt](https://github.com/fermarsan/aixt) - Programming framework for microcontrollers based on a V-based language.
 
 ### Operating systems/Kernels
 
