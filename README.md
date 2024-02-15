@@ -183,6 +183,7 @@
 
 ### Database clients
 
+- [mongodb](https://github.com/vlang/mongo) - MongoDB driver for V
 - [redis](https://github.com/Coachonko/redis) - Connect and interface with Redis-compatible databases.
 - [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
 - [vmemcached](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
