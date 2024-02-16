@@ -295,6 +295,7 @@
 ### Utility
 
 - [dialog](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
+- [dotenv](https://github.com/Coachonko/dotenv) - Loads environment variables from a .env file for development purposes.
 - [json2v](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 - [objc](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
