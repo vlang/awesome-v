@@ -68,6 +68,7 @@
 - [github-releases](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
+- [lsv](https://github.com/mike-ward/lsv) -`ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others
 - [portctl](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
