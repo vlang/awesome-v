@@ -190,6 +190,7 @@
 - [vmemcached](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 - [vredis](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
 - [vsql](https://github.com/lydiandy/vsql) - A sql query builder for V.
+- [vduckdb](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
 
 ### Discord
 
