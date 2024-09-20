@@ -185,7 +185,7 @@
 ### Database clients
 
 - [mongodb](https://github.com/vlang/mongo) - MongoDB driver for V.
-- [redis](https://github.com/Coachonko/redis) - Connect and interface with Redis-compatible databases.
+- [redict](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
 - [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
 - [vmemcached](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 - [vredis](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
@@ -273,13 +273,13 @@
 - [pcre2](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 - [read_xlsx_v](https://github.com/fanlia/read_xlsx_v) - Read xlsx using vlang.
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
-- [slugify](https://github.com/Coachonko/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
+- [slugify](https://github.com/einar-hjortdal/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
 - [strfmt](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
 - [text-processing](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 - [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
 - [vxml](https://github.com/walkingdevel/vxml) - Pure V library for parsing XML to a DOM.
 - [whisker](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
-- [lexical_uuid](https://github.com/Coachonko/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
+- [lexical_uuid](https://github.com/einar-hjortdal/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
 
 ### User Interface toolkits
 
@@ -295,7 +295,7 @@
 ### Utility
 
 - [dialog](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
-- [dotenv](https://github.com/Coachonko/dotenv) - Loads environment variables from a .env file for development purposes.
+- [dotenv](https://github.com/einar-hjortdal/dotenv) - Loads environment variables from a .env file for development purposes.
 - [json2v](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 - [objc](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
@@ -318,7 +318,7 @@
 - [vest](https://github.com/alexferl/vest) - A REST client in V.
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vigest](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
-- [vistas](https://github.com/Coachonko/vistas) - Central file server API.
+- [vistas](https://github.com/einar-hjortdal/vistas) - Central file server API.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 - [west](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
