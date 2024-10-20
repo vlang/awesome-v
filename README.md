@@ -122,6 +122,7 @@
 ### Operating systems/Kernels
 
 - [Vinix](https://github.com/vlang/vinix) - Small and simple OS in V. Runs bash.
+- [V-Unikernel](https://github.com/vlang/unikernel) - A unikernel is a computer program statically linked with the operating system code on which it depends.
 
 ### Package managers
 
@@ -357,6 +358,7 @@
 #### VS Code
 
 - [vscode-vlang](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
+- [v-analyzer](https://github.com/vlang/v-analyzer) - Bring IDE features for the V programming language to VS Code.
 
 #### Vim
 
