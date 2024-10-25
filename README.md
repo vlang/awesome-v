@@ -82,6 +82,7 @@
 - [vqrcode](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 - [vzcc](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+- [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V 
 
 ### Editors
 
