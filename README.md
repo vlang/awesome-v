@@ -160,6 +160,7 @@
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vss](https://github.com/vssio/vss) - Easy-to-use static site generator.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
+- [rr-dl](https://github.com/dy-tea/rr-dl) - Royal Road novel downloader
 
 ## Libraries
 
@@ -228,6 +229,7 @@
 - [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
+- [vbmp](https://github.com/dy-tea/vbmp) - Read and write bitmap files.
 
 ### IRC
 
