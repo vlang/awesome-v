@@ -160,7 +160,7 @@
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vss](https://github.com/vssio/vss) - Easy-to-use static site generator.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
-- [rr-dl](https://github.com/dy-tea/rr-dl) - Royal Road novel downloader
+- [rr-dl](https://github.com/dy-tea/rr-dl) - Royal-Road Novel downloader.
 
 ## Libraries
 
