@@ -13,5 +13,4 @@ jobs:
     - uses: actions/setup-node@v4
     - uses: max/awesome-lint
       with:
-        filename: CONTRIBUTING.md
         filename: README.md
