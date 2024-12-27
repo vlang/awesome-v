@@ -9,8 +9,8 @@ jobs:
     name: Run awesome linter
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: actions/setup-node@v3
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
       with:
         node-version: 21
     - run: npx awesome-lint README.md
