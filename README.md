@@ -151,6 +151,7 @@
 
 - [Gitly](https://github.com/vlang/gitly) - A light and fast SCM alternative to GitHub/GitLab written in V.
 - [Heroku Buildpack for V](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
+- [Mantis](https://github.com/khalyomede/mantis) - a web framework written in V.
 - [Tiniest Veb Server](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
 - [v-admin-skeleton](https://github.com/xiusin/v-system-skeleton) - Backend skeleton written in V.
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
