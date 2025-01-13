@@ -80,6 +80,7 @@
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 - [vcli](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 - [verve](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
+- [vfetch](https://github.com/carlosqsilva/vfetch) - A macOS system information fetch written in V.
 - [vgoogle](https://github.com/changhz/vgoogle) - Make google search on the terminal.
 - [vindex](https://github.com/wenxuanjun/vindex) - A simple file list server generating json strings, compatible with nginx's autoindex module.
 - [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
