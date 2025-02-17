@@ -70,6 +70,7 @@
 ### Command-line
 
 - [crepl](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
+- [fdup](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 - [github-releases](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
@@ -89,7 +90,6 @@
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 - [vzcc](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 - [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
-- [fdup](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 
 ### Editors
 
