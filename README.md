@@ -33,6 +33,7 @@
 	- [File handling](#file-handling)
 	- [Game development](#game-development)
 	- [Graphics](#graphics-1)
+	- [Interoperability](#interoperability)
 	- [IRC](#irc)
 	- [Networking](#networking)
 	- [Operating system](#operating-system)
