@@ -66,6 +66,9 @@
 ### Build Systems
 
 - [clockwork](https://github.com/emmathemartian/clockwork) - A language-agnostic build tool wrote in V.
+- [vab](https://github.com/vlang/vab) - The official V tool to build and package applications for Android.
+- [vab-sdl](https://github.com/larpon/vab-sdl) - Standalone and extra command for `vab` to build and package
+SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Command-line
 
@@ -175,7 +178,7 @@
 
 ### Audio
 
-- [miniaudio](https://github.com/Larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
+- [miniaudio](https://github.com/larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
 - [vave](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
 - [vspeech](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
 
@@ -223,15 +226,19 @@
 
 ### Game development
 
+- [chipmunk2d](https://github.com/larpon/chipmunk2d) - V wrapper of the Chipmunk2D physics library.
 - [engine](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 - [raylib.v](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
 - [shy](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
 - [V_ecs](https://github.com/mohamedLT/V_ecs) - ECS library made in V inspired by Bevy ECS.
 - [vraylib](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
 - [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
+- [wren](https://github.com/larpon/wren) - V wrapper around the excellent Wren scripting language.
 
 ### Graphics
 
+- [sdl](https://github.com/vlang/sdl) - Official SDL2 & SDL3 bindings for V.
+- [sgldraw](https://github.com/larpon/sgldraw) - An experimental real-time vector render V module based on `sokol.sgl`.
 - [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 - [V_sokol_gp](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol_gp library for easy and fast 2d graphics.
 - [viup](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
@@ -239,6 +246,12 @@
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
 - [vbmp](https://github.com/dy-tea/vbmp) - Read and write bitmap files.
+- [voronoi](https://github.com/larpon/voronoi) - V wrapper of [JCash/voronoi](https://github.com/JCash/voronoi).
+- [vqoi](https://github.com/Le0Developer/vqoi) - V: QOI - The "Quite OK Image" format for fast, lossless image compression.
+
+### Interoperability
+
+- [jni](https://github.com/larpon/jni) - V wrapper around the C Java Native Interface (Desktop + Android).
 
 ### IRC
 
