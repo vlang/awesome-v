@@ -342,11 +342,11 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [validate](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
 - [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
 - [vcurrency](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
+- [veb](https://github.com/vlang/v/tree/master/vlib/veb) - V's built-in web framework.
 - [vest](https://github.com/alexferl/vest) - A REST client in V.
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vigest](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
 - [vistas](https://github.com/einar-hjortdal/vistas) - Central file server API.
-- [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 - [west](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
 
