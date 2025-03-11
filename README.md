@@ -166,6 +166,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [Mantis](https://github.com/khalyomede/mantis) - A web framework written in V.
 - [Tiniest Veb Server](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
 - [v-admin-skeleton](https://github.com/xiusin/v-system-skeleton) - Backend skeleton written in V.
+- [v-vite starter](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
 - [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
@@ -347,6 +348,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vigest](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
 - [vistas](https://github.com/einar-hjortdal/vistas) - Central file server API.
+- [vite.v](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 - [west](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
 
