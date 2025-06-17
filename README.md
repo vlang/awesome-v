@@ -340,6 +340,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Web
 
 - [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
+- [sessions](https://github.com/einar-hjortdal/sessions) - Web-framework-agnostic sessions library.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 - [v-tiktok](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 - [validate](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
