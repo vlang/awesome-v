@@ -251,6 +251,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vbmp](https://github.com/dy-tea/vbmp) - Read and write bitmap files.
 - [voronoi](https://github.com/larpon/voronoi) - V wrapper of [JCash/voronoi](https://github.com/JCash/voronoi).
 - [vqoi](https://github.com/Le0Developer/vqoi) - V: QOI - The "Quite OK Image" format for fast, lossless image compression.
+- [svgg](https://github.com/Avocadocs/svgg) - V module to load and resterize svg file into `gg.Image` object
 
 ### Interoperability
 
