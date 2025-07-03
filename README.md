@@ -242,6 +242,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [sdl](https://github.com/vlang/sdl) - Official SDL2 & SDL3 bindings for V.
 - [sgldraw](https://github.com/larpon/sgldraw) - An experimental real-time vector render V module based on `sokol.sgl`.
+- [svgg](https://github.com/Avocadocs/svgg) - V module to load and resterize svg file into `gg.Image` object.
 - [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 - [V_sokol_gp](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol_gp library for easy and fast 2d graphics.
 - [viup](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
