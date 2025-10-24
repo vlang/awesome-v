@@ -93,6 +93,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vqrcode](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 - [vzcc](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+- [V Terminal Apps](https://github.com/cogrow4/V-Terminal-Apps) - A professional collection of high-quality terminal applications written in V, including task manager, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.
 - [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
 
 ### Editors
