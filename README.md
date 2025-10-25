@@ -341,6 +341,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Web
 
+- [blobly](https://github.com/einar-hjortdal/blobly) - Central file server.
 - [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
 - [sessions](https://github.com/einar-hjortdal/sessions) - Web-framework-agnostic sessions library.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
@@ -352,7 +353,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vest](https://github.com/alexferl/vest) - A REST client in V.
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vigest](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
-- [vistas](https://github.com/einar-hjortdal/vistas) - Central file server API.
 - [vite.v](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 - [west](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
