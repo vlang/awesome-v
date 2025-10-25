@@ -51,7 +51,7 @@
 	- [Communities](#communities)
 	- [Editor plugins](#editor-plugins)
 	- [Forums](#forums)
-	- [GitHub actions](#github-actions)
+	- [GitHub Actions](#github-actions)
 	- [GitHub templates](#github-templates)
 	- [IDEs with V](#ides-with-v)
 	- [Online IDEs with V](#online-ides-with-v)
@@ -77,7 +77,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [fdup](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 - [github-releases](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
-- [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
+- [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
 - [lsv](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
 - [portctl](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
@@ -125,7 +125,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [stas](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
-- [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
+- [v](https://github.com/vlang/v) - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 - [vas](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
 - [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 - [vfuck](https://github.com/ShayokhShorfuddin/VFuck) - A brainfuck interpreter written in V.
@@ -170,7 +170,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v-vite starter](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
-- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
+- [Vieter](https://github.com/ChewingBever/vieter) - Arch Linux repository server & package build system, written in V.
 - [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vss](https://github.com/vssio/vss) - Easy-to-use static site generator.
@@ -201,11 +201,11 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vesseract](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
 
 ### Database clients
-
+<!-- lint ignore remark-lint:awesome-spell-check -->
 - [firebird](https://github.com/einar-hjortdal/firebird) - Client for Firebird SQL.
 - [mongodb](https://github.com/vlang/mongo) - MongoDB driver for V.
 - [redict](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
-- [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
+- [redis](https://github.com/patrickpissurno/vredis) - A Redis client for V, written in V.
 - [vduckdb](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
 - [vmemcached](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 - [vredis](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
@@ -278,7 +278,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Scientific computing
 
 - [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
-- [vsl](https://github.com/vlang/vsl) - VSL is a Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, VSL also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
+- [vsl](https://github.com/vlang/vsl) - A Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, it also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
 - [vtl](https://github.com/vlang/vtl) - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
 - [NeuralNetworks-V-Module](https://github.com/Eliyaan/NeuralNetworks-V-Module) - This is a V module to create neural networks.
 
@@ -385,7 +385,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 #### Sublime Text 3
 
 - [sublime-v](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
-- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
+- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime Text 3 Support for the Vlang Programming Language.
 
 #### VS Code
 
@@ -403,7 +403,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [r/vlang](https://www.reddit.com/r/vlang)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/vlang)
 
-### GitHub actions
+### GitHub Actions
 
 - [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
 - [setup-v](https://github.com/marketplace/actions/setup-vlang) - GitHub action to install and use V in your workflow.
