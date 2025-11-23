@@ -103,6 +103,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [text_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) - Small text editor from the official V examples.
 - [ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 - [vee](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
+- [volt](https://github.com/Volt-Editor-Team/volt) - Aims to be a fully featured text editor written entirely in Vlang.
 - [vPDF](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
 
 ### Games
