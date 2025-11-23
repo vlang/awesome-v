@@ -95,6 +95,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vzcc](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 - [v-terminal-apps](https://github.com/cogrow4/V-Terminal-Apps) - A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.
 - [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
+- [zilch](https://github.com/mike-ward/zilch) - An entertaining and amusing simulation of an installer.
 
 ### Editors
 
