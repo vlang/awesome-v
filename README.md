@@ -281,9 +281,9 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 - [vsl](https://github.com/vlang/vsl) - A Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, it also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
+- [vstats](https://github.com/rodabt/vstats) - A dependency-free Linear Algebra, Statistics, and Machine Learning library written from scratch in V.
 - [vtl](https://github.com/vlang/vtl) - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
 - [NeuralNetworks-V-Module](https://github.com/Eliyaan/NeuralNetworks-V-Module) - This is a V module to create neural networks.
-- [vstats](https://github.com/rodabt/vstats) - A dependency-free Linear Algebra, Statistics, and Machine Learning library written from scratch in V.
 
 ### Serial Communications
 
