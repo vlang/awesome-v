@@ -96,6 +96,10 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v-terminal-apps](https://github.com/cogrow4/V-Terminal-Apps) - A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.
 - [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
 - [zilch](https://github.com/mike-ward/zilch) - An entertaining and amusing simulation of an installer.
+- [mimicfs](https://github.com/tailsmails/mimicfs) - An FS that encrypts your app data and keeps them on RAM (with a backup)
+- [mushroomtek](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-imsi catcher/Anti-Triangulation...)
+- [amdim](https://github.com/tailsmails/amdim) - Make your screen dimmer than 0%
+- [stripshot](https://github.com/tailsmails/stripshot) - Strips device/OS fingerprints from screenshots
 
 ### Editors
 
