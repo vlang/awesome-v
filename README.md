@@ -205,6 +205,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 - [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 - [vesseract](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
+- [vlsh](https://github.com/DavidSatimeWallin/vlsh) - *nix Shell written in V (pipes, plugins, mux mode, etc)
 
 ### Database clients
 <!-- lint disable awesome-spell-check -->
