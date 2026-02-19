@@ -100,6 +100,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v-terminal-apps](https://github.com/cogrow4/V-Terminal-Apps) - A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.
 - [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
 - [zilch](https://github.com/mike-ward/zilch) - An entertaining and amusing simulation of an installer.
+- [vlsh](https://github.com/DavidSatimeWallin/vlsh) - *nix Shell written in V (pipes, plugins, mux mode, etc)
 
 ### Editors
 
@@ -205,7 +206,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 - [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 - [vesseract](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
-- [vlsh](https://github.com/DavidSatimeWallin/vlsh) - *nix Shell written in V (pipes, plugins, mux mode, etc)
 
 ### Database clients
 <!-- lint disable awesome-spell-check -->
