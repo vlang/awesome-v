@@ -84,8 +84,8 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [mushroomtek](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).
 - [portctl](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
-- [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [stripshot](https://github.com/tailsmails/stripshot) - Strips device/OS fingerprints from screenshots.
+- [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [timingless](https://github.com/tailsmails/timingless) - A SOCKS5 proxy that sits between your applications and Tor, enforcing constant bandwidth to defeat traffic timing analysis.
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 - [vcli](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
@@ -342,11 +342,11 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [ssh-config](https://github.com/walkingdevel/ssh-config) - A V library for parsing SSH config files.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
+- [vanadium](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
 - [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 - [vhs](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 - [VInstall](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
 - [votp](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
-- [vanadium](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
 
 ### Web
 
