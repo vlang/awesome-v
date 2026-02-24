@@ -346,7 +346,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vhs](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 - [VInstall](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
 - [votp](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
-
+- [vanadium](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
 
 ### Web
 
