@@ -319,6 +319,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [slugify](https://github.com/einar-hjortdal/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
 - [text-processing](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 - [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
+- [vsoup](https://github.com/marcalc/vsoup) - A fast, JSoup-inspired HTML5 parser and DOM manipulation library for V, powered by Lexbor.
 - [vxml](https://github.com/i582/vxml) - Pure V library for parsing XML to a DOM.
 - [whisker](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
 - [lexical_uuid](https://github.com/einar-hjortdal/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
