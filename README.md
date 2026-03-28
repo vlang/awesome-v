@@ -85,6 +85,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [mushroomtek](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).
 - [portctl](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
+- [sockslender](https://github.com/tailsmails/sockslender) - A lightweight, blazing-fast SOCKS5 proxy failover tool written in V.
 - [stripshot](https://github.com/tailsmails/stripshot) - Strips device/OS fingerprints from screenshots.
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [timingless](https://github.com/tailsmails/timingless) - A SOCKS5 proxy that sits between your applications and Tor, enforcing constant bandwidth to defeat traffic timing analysis.
