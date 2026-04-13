@@ -175,6 +175,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [Gitly](https://github.com/vlang/gitly) - A light and fast SCM alternative to GitHub/GitLab written in V.
 - [Heroku Buildpack for V](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
+- [highlighter](https://codeberg.org/tamer/highlighter) - Inject syntax highlighting into HTML files at build time, or via the CLI tool.
 - [Mantis](https://github.com/khalyomede/mantis) - A web framework written in V.
 - [Tiniest Veb Server](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
 - [v-admin-skeleton](https://github.com/xiusin/v-system-skeleton) - Backend skeleton written in V.
