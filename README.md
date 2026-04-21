@@ -400,6 +400,10 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v-mode](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
 
+#### Pulsar
+
+- [language-v](https://packages.pulsar-edit.dev/packages/language-v) - V language support for Atom (port of vscode-vlang) (migrated from atom.io)
+
 #### Sublime Text 3
 
 - [sublime-v](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
