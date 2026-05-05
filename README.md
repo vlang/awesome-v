@@ -110,6 +110,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Editors
 
+- [lilly](https://github.com/tauraamui/lilly) - TUI editor and VIM/Neovim alternative.
 - [polygon-editor](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
 - [text_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) - Small text editor from the official V examples.
 - [ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
