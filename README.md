@@ -142,6 +142,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [Aixt](https://github.com/fermarsan/aixt) - Programming framework for microcontrollers based on a V-based language and written in V. 
 - [cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
+- [papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - Open-source compiler for Bethesda's Papyrus scripting language (Skyrim SE/AE).
 - [stas](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 - [v](https://github.com/vlang/v) - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 - [vas](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
