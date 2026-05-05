@@ -370,6 +370,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Web
 
 - [blobly](https://github.com/einar-hjortdal/blobly) - Central file server.
+- [jsonrpcv](https://github.com/Te4nick/jsonrpcv) - JSON-RPC 2.0 client+server implementation in pure V.
 - [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
 - [sessions](https://github.com/einar-hjortdal/sessions) - Web-framework-agnostic sessions library.
 - [v-graphql](https://github.com/hyperpolymath/v-graphql) - GraphQL server implementation with schema generation, Idris2 ABI proofs, and Zig FFI.
