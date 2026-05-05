@@ -348,6 +348,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vsoup](https://github.com/marcalc/vsoup) - A fast, JSoup-inspired HTML5 parser and DOM manipulation library for V, powered by Lexbor.
 - [vxml](https://github.com/i582/vxml) - Pure V library for parsing XML to a DOM.
 - [whisker](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
+- [xlsx](https://github.com/hungrybluedev/xlsx) - V library for reading and writing Microsoft Excel files.
 - [lexical_uuid](https://github.com/einar-hjortdal/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
 
 ### User Interface toolkits
