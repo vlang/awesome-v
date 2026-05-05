@@ -190,6 +190,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v-vite starter](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
+- [Verne](https://github.com/davlgd/Verne) - The other static site generator named after a famous French author.
 - [Vieter](https://github.com/ChewingBever/vieter) - Arch Linux repository server & package build system, written in V.
 - [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
