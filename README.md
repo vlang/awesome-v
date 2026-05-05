@@ -287,6 +287,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Interoperability
 
 - [jni](https://github.com/larpon/jni) - V wrapper around the C Java Native Interface (Desktop + Android).
+- [vjsx](https://github.com/guweigang/vjsx) - V bindings to quickjs javascript engine. Run JS in V.
 
 ### IRC
 
