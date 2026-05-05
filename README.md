@@ -134,6 +134,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Graphics
 
 - [mpv-v](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
+- [vpaint](https://github.com/pisaiah/vpaint) - MS-Paint alternative written in V.
 - [vRayTracer](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
 ### Interpreters/Compilers
