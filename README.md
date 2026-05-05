@@ -261,6 +261,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [chipmunk2d](https://github.com/larpon/chipmunk2d) - V wrapper of the Chipmunk2D physics library.
 - [engine](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 - [raylib.v](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
+- [sdl2test](https://github.com/nsauzede/sdl2test) - Exhaustive suite of tests and examples for SDL2 with V.
 - [shy](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
 - [V_ecs](https://github.com/mohamedLT/V_ecs) - ECS library made in V inspired by Bevy ECS.
 - [vraylib](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
