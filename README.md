@@ -353,6 +353,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### User Interface toolkits
 
+- [bobatea](https://github.com/tauraamui/bobatea) - TUI framework inspired by Bubble Tea.
 - [iUI](https://github.com/isaiahpatton/ui) - Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
 - [mui](https://github.com/malisipi/mui) - A Cross-Platform UI library for Windows, Linux, Android and Web.
 - [V UI](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
