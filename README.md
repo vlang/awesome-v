@@ -94,6 +94,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
 - [vcli](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 - [verve](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
+- [vfc](https://github.com/Ict00/vfc) - A simple TUI file manager, made with V.
 - [vfetch](https://github.com/carlosqsilva/vfetch) - A macOS system information fetch written in V.
 - [vgoogle](https://github.com/changhz/vgoogle) - Make google search on the terminal.
 - [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
