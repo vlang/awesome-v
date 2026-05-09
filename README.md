@@ -76,6 +76,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [amdim](https://github.com/tailsmails/amdim) - Make your screen dimmer than 0%.
 - [crepl](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 - [dnshammer](https://github.com/tailsmails/dnshammer) - A covert communication channel that encodes data into DNS cache timing differences.
+- [envelop](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
 - [fdup](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 - [github-releases](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
