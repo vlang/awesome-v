@@ -120,6 +120,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vee](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
 - [volt](https://github.com/Volt-Editor-Team/volt) - Aims to be a fully featured text editor written entirely in Vlang.
 - [vPDF](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
+- [vro](https://github.com/undivisible/vro) - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
 
 ### Games
 
