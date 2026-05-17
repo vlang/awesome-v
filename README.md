@@ -192,6 +192,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [Heroku Buildpack for V](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
 - [highlighter](https://codeberg.org/tamer/highlighter) - Inject syntax highlighting into HTML files at build time, or via the CLI tool.
 - [Mantis](https://github.com/khalyomede/mantis) - A web framework written in V.
+- [Mustela](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
 - [rr-dl](https://github.com/dy-tea/rr-dl) - Royal-Road Novel downloader.
 - [Tiniest Veb Server](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
 - [v-admin-skeleton](https://github.com/xiusin/v-system-skeleton) - Backend skeleton written in V.
