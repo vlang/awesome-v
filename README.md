@@ -339,6 +339,8 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Text processing
 
+- [tree-sitter-v](https://github.com/undivisible/tree-sitter-v) - Tree-sitter grammar for V language. Maintained fork with modern API, crates.io package, 244 node types.
+
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 - [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
