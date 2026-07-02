@@ -74,6 +74,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Command-line
 
 - [amdim](https://github.com/tailsmails/amdim) - Make your screen dimmer than 0%.
+- [anyside](https://github.com/tailsmails/anyside) - Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.
 - [crepl](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 - [dnshammer](https://github.com/tailsmails/dnshammer) - A covert communication channel that encodes data into DNS cache timing differences.
 - [envelop](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
