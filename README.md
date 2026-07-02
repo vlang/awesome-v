@@ -74,6 +74,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Command-line
 
 - [amdim](https://github.com/tailsmails/amdim) - Make your screen dimmer than 0%.
+- [anyside](https://github.com/tailsmails/anyside) - Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.
 - [crepl](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 - [dnshammer](https://github.com/tailsmails/dnshammer) - A covert communication channel that encodes data into DNS cache timing differences.
 - [envelop](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
@@ -321,6 +322,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Scientific computing
 
+- [vnm](https://github.com/tailsmails/vnm) - A minimalist, compiled neural network library written in the V programming language.
 - [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 - [vsl](https://github.com/vlang/vsl) - A Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, it also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
 - [vstats](https://github.com/rodabt/vstats) - A dependency-free Linear Algebra, Statistics, and Machine Learning library written from scratch in V.
