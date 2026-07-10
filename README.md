@@ -80,6 +80,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [envelop](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
 - [fastgit](https://github.com/tailsmails/fastgit) - A command-line tool written in V, designed to automate and simplify uploading, syncing, and modifying GitHub repositories.
 - [fdup](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
+- [gatevay](https://github.com/tailsmails/gatevay) - A lightweight, multi-gateway SOCKS5 proxy tool.
 - [github-releases](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [httest](https://github.com/gechandesu/httest) - A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.
