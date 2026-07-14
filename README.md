@@ -264,6 +264,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Eventing
 
 - [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V.
+- [rxv](https://github.com/ulises-jeremias/rxv) - Reactive Extensions for the V language. Compose async event streams with creation, filtering, transformation, aggregation, timing, and combination operators.
 
 ### File handling
 
