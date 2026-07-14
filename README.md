@@ -474,7 +474,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### GitHub Actions
 
 - [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
-- [setup-v](https://github.com/marketplace/actions/setup-vlang) - GitHub action to install and use V in your workflow.
+- [setup-v](https://github.com/vlang/setup-v) - GitHub Action to install and use V in your workflow. Available on the [marketplace](https://github.com/marketplace/actions/setup-vlang).
 
 ### GitHub templates
 
