@@ -292,11 +292,13 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vglyph](https://github.com/vlang/vglyph) - High-performance text rendering engine for the V programming language, built on Pango, FreeType, and Sokol.
 - [viup](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
 - [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
-- [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
-- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
+- [V_sokol_gp](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol_gp library for easy and fast 2d graphics.
 - [vbmp](https://github.com/dy-tea/vbmp) - Read and write bitmap files.
 - [voronoi](https://github.com/larpon/voronoi) - V wrapper of [JCash/voronoi](https://github.com/JCash/voronoi).
 - [vqoi](https://github.com/Le0Developer/vqoi) - V: QOI - The "Quite OK Image" format for fast, lossless image compression.
+- [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
+- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
+- [vsl.plot](https://github.com/vlang/vsl/tree/master/plot#readme) - Plotting module for VSL with 85+ examples. Create line charts, scatter plots, 3D surfaces, bar charts, box plots, histograms, heatmaps, and more.
 
 ### Interoperability
 
@@ -329,8 +331,14 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vnm](https://github.com/tailsmails/vnm) - A minimalist, compiled neural network library written in the V programming language.
 - [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 - [vsl](https://github.com/vlang/vsl) - A Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, it also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
+- [vsl.fft](https://github.com/vlang/vsl/tree/master/fft#readme) - Fast Fourier Transform module for VSL. Includes real and complex FFT with multiple backend options.
+- [vsl.ml](https://github.com/vlang/vsl/tree/master/ml#readme) - Machine Learning module for VSL with K-means, KNN, linear/logistic regression, SVM, decision trees, random forest, and more.
+- [vsl.quaternion](https://github.com/vlang/vsl/tree/master/quaternion#readme) - Quaternion math module for VSL. Supports 3D rotations, spherical linear interpolation (slerp), and Julia fractal generation.
 - [vstats](https://github.com/rodabt/vstats) - A dependency-free Linear Algebra, Statistics, and Machine Learning library written from scratch in V.
 - [vtl](https://github.com/vlang/vtl) - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
+- [vtl.autograd](https://github.com/vlang/vtl/tree/master/autograd#readme) - Automatic differentiation module for VTL. Enables gradient computation for machine learning and optimization.
+- [vtl.datasets](https://github.com/vlang/vtl/tree/master/datasets#readme) - Datasets module for VTL providing built-in datasets for ML benchmarking and tutorials.
+- [vtl.nn](https://github.com/vlang/vtl/tree/master/nn#readme) - Neural Networks module for VTL. Build and train deep learning models with layers, activations, and optimizers.
 - [NeuralNetworks-V-Module](https://github.com/Eliyaan/NeuralNetworks-V-Module) - This is a V module to create neural networks.
 
 ### Serial Communications
