@@ -111,6 +111,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vfetch](https://github.com/carlosqsilva/vfetch) - A macOS system information fetch written in V.
 - [vgoogle](https://github.com/changhz/vgoogle) - Make google search on the terminal.
 - [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
+- [vin32](https://github.com/tailsmails/vin32) - A basic, heuristic-based CLI tool to generate V language bindings from simple Windows C header files.
 - [vindex](https://github.com/wenxuanjun/vindex) - A simple file list server generating json strings, compatible with nginx's autoindex module.
 - [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 - [vLogQL](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
