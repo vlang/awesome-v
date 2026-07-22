@@ -2,7 +2,7 @@
 
 <p align="center"><img src="media/awesome-v-logo.svg" width="400"/></p>
 
-# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/discord/1527933660764831825?label=Discord&logo=discord&logoColor=white)](https://discord.gg/dwFTsR7fK2)
 
 > A curated list of awesome V frameworks, libraries, software and resources.
 
