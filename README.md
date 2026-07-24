@@ -2,7 +2,7 @@
 
 <p align="center"><img src="media/awesome-v-logo.svg" width="400"/></p>
 
-# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/discord/1527933660764831825?label=Discord&logo=discord&logoColor=white)](https://discord.gg/dwFTsR7fK2)
 
 > A curated list of awesome V frameworks, libraries, software and resources.
 
@@ -61,6 +61,7 @@
 	- [Syntax highlighting](#syntax-highlighting)
 	- [Tutorials](#tutorials)
 	- [Videos](#videos)
+	- [Contributors](#contributors)
 
 ## Applications
 
@@ -536,3 +537,11 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [The V Programming Language](https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A)
 - [V Programming Tutorials](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
+
+### Contributors
+
+<a href="https://github.com/ulises-jeremias/awesome-v/contributors">
+  <img alt="Contributors" src="https://contrib.rocks/image?repo=ulises-jeremias/awesome-v"/>
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
