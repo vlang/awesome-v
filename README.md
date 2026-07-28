@@ -113,7 +113,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vgoogle](https://github.com/changhz/vgoogle) - Make google search on the terminal.
 - [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
 - [vin32](https://github.com/tailsmails/vin32) - A basic, heuristic-based CLI tool to generate V language bindings from simple Windows C header files.
-- [vindex](https://github.com/wenxuanjun/vindex) - A simple file list server generating json strings, compatible with nginx's autoindex module.
 - [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 - [vLogQL](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
 - [vlsh](https://github.com/vlshcc/vlsh) - *nix Shell written in V (pipes, plugins, mux mode, etc).
@@ -139,7 +138,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Games
 
-- [2048](https://github.com/wenxuanjun/2048) - A 2048 game with several types of traditional AI integrated.
 - [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 - [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) - A simple flappy learning demo in v.
 - [Kurarin](https://github.com/FireRedz/kurarin) - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
@@ -164,7 +162,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v](https://github.com/vlang/v) - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 - [vas](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
 - [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
-- [vfuck](https://github.com/ShayokhShorfuddin/VFuck) - A brainfuck interpreter written in V.
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
 
@@ -319,7 +316,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [netaddr](https://github.com/gechandesu/netaddr) - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
 - [netio](https://github.com/gechandesu/netio) - Low-level networking library for V that gives more control over sockets.
 - [netr](https://github.com/tailsmails/netr) - A modular, zero-dependency raw socket and network packet crafting library written in V.
-- [v-grpc](https://github.com/hyperpolymath/v-grpc) - gRPC and Protobuf support for V with Idris2 ABI proofs and Zig FFI.
 - [vibe](https://github.com/tobealive/vibe) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 - [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 
@@ -401,7 +397,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [json2v](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 - [objc](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
-- [ssh-config](https://github.com/walkingdevel/ssh-config) - A V library for parsing SSH config files.
 - [structlog](https://github.com/gechandesu/structlog) - Structured logs library for V.
 - [V-crypto](https://github.com/bstnbuck/V-crypto) - Implementation of additional cryptographic algorithms.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
@@ -418,10 +413,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [jsonrpcv](https://github.com/Te4nick/jsonrpcv) - JSON-RPC 2.0 client+server implementation in pure V.
 - [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
 - [sessions](https://github.com/einar-hjortdal/sessions) - Web-framework-agnostic sessions library.
-- [v-graphql](https://github.com/hyperpolymath/v-graphql) - GraphQL server implementation with schema generation, Idris2 ABI proofs, and Zig FFI.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
-- [v-rest](https://github.com/hyperpolymath/v-rest) - REST API server framework with Idris2 ABI proofs and Zig FFI.
-- [v-tiktok](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 - [validate](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
 - [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
 - [vcurrency](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
@@ -502,13 +494,11 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [V Playground](https://play.vlang.io)
 - [V Playground (old)](https://v-wasm.now.sh/)
-- [VOSCA V Playground](https://play.vosca.dev)
 
 ### Operating Systems & OS Development Examples
 
 - [limine-v-template](https://github.com/plos-clan/limine-v-template) - A simple template for building a Limine-compliant kernel in V.
 - [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.
-- [v-limine](https://github.com/wenxuanjun/v-limine) - A V library for handling Limine boot protocol structures.
 
 ### Patterns
 
@@ -532,7 +522,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [V by Example](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
 - [V for Node Devs](https://github.com/Thigidu/vlang-for-nodejs-developers) - Vlang for node js developers.
 - [V learning notes](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
-- [VOSCA Blog Tutorials](https://blog.vosca.dev/categories/tutorials/) - Tutorial category on VOSCA blog.
 
 ### Videos
 
