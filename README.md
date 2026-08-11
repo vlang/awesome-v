@@ -219,6 +219,9 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vss](https://github.com/vssio/vss) - Easy-to-use static site generator.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
+- [v-jwt](https://github.com/deatil/v-jwt) - A JWT (JSON Web Token) library for vlang.
+- [v-sm3](https://github.com/deatil/v-sm3) - v-sm3 is a SM3 hash function for vlang.
+
 
 ## Libraries
 
