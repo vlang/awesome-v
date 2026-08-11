@@ -140,6 +140,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Games
 
 - [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
+- [Dino](https://github.com/egevtech/dino) - A simple console arcade game written in V where you control a dino and avoid cactuses and birds.
 - [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) - A simple flappy learning demo in v.
 - [Kurarin](https://github.com/FireRedz/kurarin) - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 - [minesweeper](https://github.com/ali-furkan/minesweeper-v) - A simple Minesweeper game written in vlang.
