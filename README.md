@@ -2,7 +2,7 @@
 
 <p align="center"><img src="media/awesome-v-logo.svg" width="400"/></p>
 
-# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/discord/1527933660764831825?label=Discord&logo=discord&logoColor=white)](https://discord.gg/dwFTsR7fK2)
+# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/discord/1527933660764831825?label=Discord&logo=discord&logoColor=white)](https://discord.gg/vlang)
 
 > A curated list of awesome V frameworks, libraries, software and resources.
 
@@ -477,6 +477,9 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
 - [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
+
+#### Zed
+- [zed-v](https://github.com/lv37/zed-v) - Support for V syntax highlighting in Zed.
 
 ### Forums
 
