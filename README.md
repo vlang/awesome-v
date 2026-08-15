@@ -434,6 +434,8 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Articles
 
 - [An introduction to V](https://simonknott.de/articles/VLang.html)
+- [How To Make A V Compiler Backend](https://l-m.dev/cs/how_to_make_a_v_backend) - Walkthrough of writing a new codegen backend for V.
+- [The V WebAssembly Compiler Backend, Rewritten](https://l-m.dev/cs/the_v_webassembly_compiler_backend_rewrite) - Rewriting V's WebAssembly backend with no external dependencies.
 
 ### Books
 
