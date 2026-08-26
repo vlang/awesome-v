@@ -401,6 +401,8 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [structlog](https://github.com/gechandesu/structlog) - Structured logs library for V.
 - [V-crypto](https://github.com/bstnbuck/V-crypto) - Implementation of additional cryptographic algorithms.
+- [v-hash](https://github.com/deatil/v-hash) - A hash library for vlang.
+- [v-rsa](https://github.com/deatil/v-rsa) - A RSA library for vlang.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
 - [vanadium](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
 - [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
