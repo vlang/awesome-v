@@ -320,6 +320,8 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [netr](https://github.com/tailsmails/netr) - A modular, zero-dependency raw socket and network packet crafting library written in V.
 - [vibe](https://github.com/tobealive/vibe) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 - [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
+- [webrtc-v](https://github.com/bedrock-v/webrtc-v) - A pure V implementation of the WebRTC protocol stack.
+- [raknet](https://github.com/bedrock-v/raknet) - A V implementation of the classic RakNet protocol used by Minecraft: Bedrock Edition.
 
 ### Operating system
 
