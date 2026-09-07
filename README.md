@@ -248,6 +248,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Database clients
 <!-- lint disable awesome-spell-check -->
 - [firebird](https://github.com/einar-hjortdal/firebird) - Client for Firebird SQL.
+- [leveldb](https://github.com/vlang/leveldb) - LevelDB implementation in pure V.
 - [mongodb](https://github.com/vlang/mongo) - A MongoDB driver for V.
 - [redict](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
 - [redis](https://github.com/patrickpissurno/vredis) - A Redis client for V, written in V.
