@@ -178,6 +178,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Project management
 
+- [create-vlang-app](https://github.com/Create-Vlang-App/create-vlang-app) - A V-native scaffolding CLI to generate production-ready V projects from composable templates and extensions.
 - [Lenra template](https://github.com/lenra-io/template-v) - The Lenra template to write V app for Lenra platform.
 - [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
 
