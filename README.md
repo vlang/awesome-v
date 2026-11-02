@@ -423,6 +423,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [jsonrpcv](https://github.com/Te4nick/jsonrpcv) - JSON-RPC 2.0 client+server implementation in pure V.
 - [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
 - [sessions](https://github.com/einar-hjortdal/sessions) - Web-framework-agnostic sessions library.
+- [swelte](https://github.com/eddow/swelte) - "V in Svelte" - SvelteKit equivalent using V as backend and isomorphic code.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 - [v-jwt](https://github.com/deatil/v-jwt) - A JWT (JSON Web Token) library for vlang.
 - [v-sm3](https://github.com/deatil/v-sm3) - A SM3 hash function for vlang.
