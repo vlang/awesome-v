@@ -157,6 +157,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vas](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
 - [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 - [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
+- [vcc](https://github.com/vanadiume/vcc) - A C compiler written in V.
 - [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
 
 ### Operating systems/Kernels
