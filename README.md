@@ -431,6 +431,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v-sm3](https://github.com/deatil/v-sm3) - A SM3 hash function for vlang.
 - [validate](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
 - [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
+- [vanilla](https://github.com/enghitalo/vanilla) - Minimalist, high-performance HTTP server.
 - [vcurrency](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
 - [veb](https://github.com/vlang/v/tree/master/vlib/veb) - V's built-in web framework.
 - [vest](https://github.com/alexferl/vest) - A REST client in V.
