@@ -291,6 +291,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Graphics
 
+- [imgui](https://github.com/antono2/imgui) - Generated bindings for Dear ImGui and ImPlot.
 - [sdl](https://github.com/vlang/sdl) - Official SDL2 & SDL3 bindings for V.
 - [sgldraw](https://github.com/larpon/sgldraw) - An experimental real-time vector render V module based on `sokol.sgl`.
 - [svgg](https://github.com/Avocadocs/svgg) - V module to load and resterize svg file into `gg.Image` object.
