@@ -548,6 +548,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [V by Example](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
 - [V for Node Devs](https://github.com/Thigidu/vlang-for-nodejs-developers) - Vlang for node js developers.
 - [V learning notes](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
+- [V Programming Comprehensive Guide](https://github.com/codecaine-zz/V-Programming-Comprehensive-Guide) - Zero-to-hero V tutorial, from variables to concurrency and the standard library.
 
 ### Videos
 
