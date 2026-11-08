@@ -461,6 +461,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Editor plugins
 
 - [tree-sitter-v](https://github.com/undivisible/tree-sitter-v) - Tree-sitter grammar for V language. Maintained fork with modern API, crates.io package, 244 node types.
+- [visor](https://github.com/HuntedByTheIRS/visor) - Feature-rich language server for V.
 
 #### Atom
 
