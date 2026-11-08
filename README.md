@@ -109,6 +109,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vsnap](https://github.com/skandhas/vsnap) - A tiny local snapshot tool for saving and restoring files before risky edits, lighter than Git and built around explicit paths.
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 - [vsqlite](https://github.com/quaesitor-scientiam/vsqlite) - SQLite CLI and module replacement written in pure V.
+- [vWhois](https://github.com/davlgd/vWhois) - RDAP-first WHOIS client and library, with WHOIS fallback for top-level domains without RDAP.
 - [vzcc](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 - [zilch](https://github.com/mike-ward/zilch) - An entertaining and amusing simulation of an installer.
 
