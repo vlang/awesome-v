@@ -230,6 +230,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Automation
 
+- [auto](https://github.com/islonely/auto) - Cross-platform mouse and keyboard manipulation.
 - [v-webdriver](https://github.com/quaesitor-scientiam/v-webdriver) - A V language implementation of the W3C WebDriver protocol for browser automation.
 - [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
 
