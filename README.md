@@ -85,6 +85,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [JarVis](https://github.com/davlgd/JarVis) - Multi-platform CLI assistant.
 - [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
 - [lsv](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
+- [lule](https://github.com/termworks/lule) - ANSI color generator for your terminal.
 - [minimax-v](https://github.com/whiter001/minimax-v) - Local AI Agent runtime implemented in the V language.
 - [pfjson](https://github.com/fleximus/pfjson) - A CLI tool to convert OpenBSD Packet Filter configuration files (`pf.conf`) to JSON and vice versa.
 - [portctl](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
