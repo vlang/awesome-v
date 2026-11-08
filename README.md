@@ -192,6 +192,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [coreutils](https://github.com/vlang/coreutils) - Programs equivalent to GNU coreutils.
 - [emoji-mart-desktop](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
 - [qptorrent](https://github.com/qptorrent/qptorrent) - A minimal GUI/CLI BitTorrent client written in V + vlang/gui.
+- [ripgrep.v](https://github.com/vlang/ripgrep.v) - V translation of ripgrep.
 - [unix-emulators-win](https://github.com/Ddiidev/unix-emulators-win) - Collection of 16 UNIX utilities rewritten in V for Windows.
 - [v-nodejs-addon](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
 
