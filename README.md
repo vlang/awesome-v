@@ -189,6 +189,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Utilities
 
 - [boj-server](https://github.com/hyperpolymath/boj-server) - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
+- [coreutils](https://github.com/vlang/coreutils) - Programs equivalent to GNU coreutils.
 - [emoji-mart-desktop](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
 - [qptorrent](https://github.com/qptorrent/qptorrent) - A minimal GUI/CLI BitTorrent client written in V + vlang/gui.
 - [unix-emulators-win](https://github.com/Ddiidev/unix-emulators-win) - Collection of 16 UNIX utilities rewritten in V for Windows.
