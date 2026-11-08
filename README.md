@@ -75,6 +75,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Command-line
 
 - [crepl](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
+- [Disposable Remote Container](https://github.com/davlgd/drc) - Run a throwaway container of any Linux distribution on a remote host over SSH, with no shell in the way.
 - [dupfind](https://github.com/gabytz777/dupfind) - Find duplicate files by content. Pure V, zero dependencies, with JSON output.
 - [fdup](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 - [github-releases](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
