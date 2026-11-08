@@ -198,6 +198,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Web
 
+- [ghui](https://github.com/vlang/ghui) - Native GitHub issue and pull request browser built with ui2.
 - [Gitly](https://github.com/vlang/gitly) - A light and fast SCM alternative to GitHub/GitLab written in V.
 - [gitval](https://github.com/davlgd/gitval) - A static site generator for Git repositories, written in V.
 - [Heroku Buildpack for V](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
