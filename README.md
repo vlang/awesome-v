@@ -403,6 +403,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [i18n](https://github.com/nepinhum/i18n) - Internationalization (i18n) translation library.
 - [json2v](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 - [libsodium](https://github.com/vlang/libsodium) - Bindings for the libsodium cryptography library.
+- [markdown](https://github.com/vlang/markdown) - Convert Markdown to HTML, based on md4c.
 - [objc](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [structlog](https://github.com/gechandesu/structlog) - Structured logs library for V.
