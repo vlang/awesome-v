@@ -306,6 +306,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [vsl.vcl](https://github.com/vlang/vsl/tree/main/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
 - [vsl.plot](https://github.com/vlang/vsl/tree/main/plot#readme) - Plotting module for VSL with 85+ examples. Create line charts, scatter plots, 3D surfaces, bar charts, box plots, histograms, heatmaps, and more.
+- [vulkan](https://github.com/antono2/vulkan) - Generated Vulkan and Vulkan Video bindings.
 
 ### Interoperability
 
