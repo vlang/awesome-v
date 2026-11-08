@@ -400,6 +400,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [dialog](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
 - [dotenv](https://github.com/einar-hjortdal/dotenv) - Loads environment variables from a .env file for development purposes.
+- [i18n](https://github.com/nepinhum/i18n) - Internationalization (i18n) translation library.
 - [json2v](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 - [objc](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
