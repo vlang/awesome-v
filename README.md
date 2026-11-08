@@ -147,6 +147,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Interpreters/Compilers
 
 - [Aixt](https://github.com/fermarsan/aixt) - Programming framework for microcontrollers based on a V-based language and written in V. 
+- [c2v](https://github.com/vlang/c2v) - Official C/C++ to V translator.
 - [cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - Open-source compiler for Bethesda's Papyrus scripting language (Skyrim SE/AE).
