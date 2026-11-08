@@ -180,6 +180,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [ini-v](https://github.com/ldedev/ini-v) - Simple and practical module for manipulating ini/cfg file.
 - [maple](https://github.com/emmathemartian/maple) - A very simple key-value config format wrote in V.
 - [msgpack](https://github.com/vlang/msgpack) - MessagePack serialization library.
+- [protobuf.v](https://github.com/we-be/protobuf.v) - Protocol Buffers (proto3) implementation.
 - [v-toxml](https://github.com/radare/v-toxml) - XML Serialization library for V.
 - [vgura](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 - [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
