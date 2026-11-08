@@ -216,6 +216,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [Vieter](https://github.com/ChewingBever/vieter) - Arch Linux repository server & package build system, written in V.
 - [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
+- [vox](https://github.com/vox-browser/vox) - Browser engine written 100% in V.
 - [vss](https://github.com/vssio/vss) - Easy-to-use static site generator.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
 
