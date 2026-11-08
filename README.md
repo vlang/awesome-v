@@ -135,6 +135,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [VCraft](https://github.com/gabytz777/vcraft) - A voxel sandbox game written entirely in V with procedural terrain, biomes, water, mining/building, and a hotbar HUD.
 - [vchess](https://github.com/hedgeg0d/vchess) - Chess game written in V programming language.
 - [v-pong](https://github.com/thebigsmileXD/v-pong) - A classic paddle game brought back to life through the power of V.
+- [Vedrock](https://github.com/bedrock-v/Vedrock) - Lightweight Minecraft: Bedrock Edition server.
 
 ### Graphics
 
