@@ -82,6 +82,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [httest](https://github.com/gechandesu/httest) - A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.
 - [IETF Tools](https://github.com/davlgd/ietf-tools) - CLI bundling tools to fetch, cache and search IETF RFCs and query the IETF Datatracker.
+- [JarVis](https://github.com/davlgd/JarVis) - Multi-platform CLI assistant.
 - [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
 - [lsv](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
 - [minimax-v](https://github.com/whiter001/minimax-v) - Local AI Agent runtime implemented in the V language.
