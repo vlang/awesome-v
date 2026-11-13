@@ -8,6 +8,8 @@
 
 [V](https://vlang.io/) is a simple, fast, safe, compiled language for developing maintainable software.
 
+Archived projects and those without recent activity are listed in [UNMAINTAINED.md](UNMAINTAINED.md).
+
 ## Contents
 
 - [Applications](#applications)
@@ -26,20 +28,15 @@
 - [Libraries](#libraries)
 	- [Audio](#audio)
 	- [Automation](#automation)
-	- [Command line interface (CLI) / Terminal / Shell](#command-line-interface-cli--terminal--shell)
 	- [Database clients](#database-clients)
 	- [Discord](#discord)
 	- [Eventing](#eventing)
-	- [File handling](#file-handling)
 	- [Game development](#game-development)
 	- [Graphics](#graphics-1)
 	- [Interoperability](#interoperability)
-	- [IRC](#irc)
 	- [Networking](#networking)
 	- [Operating system](#operating-system)
 	- [Scientific computing](#scientific-computing)
-	- [Serial Communications](#serial-communications)
-	- [Telecommunications](#telecommunications)
 	- [Telegram](#telegram)
 	- [Text processing](#text-processing)
 	- [User Interface toolkits](#user-interface-toolkits)
@@ -52,13 +49,10 @@
 	- [Editor plugins](#editor-plugins)
 	- [Forums](#forums)
 	- [GitHub Actions](#github-actions)
-	- [GitHub templates](#github-templates)
 	- [IDEs with V](#ides-with-v)
 	- [Online IDEs with V](#online-ides-with-v)
 	- [Operating Systems & OS Development Examples](#operating-systems--os-development-examples)
-	- [Patterns](#patterns)
 	- [Programming contests](#programming-contests)
-	- [Syntax highlighting](#syntax-highlighting)
 	- [Tutorials](#tutorials)
 	- [Videos](#videos)
 	- [Contributors](#contributors)
@@ -74,42 +68,28 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Command-line
 
-- [crepl](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 - [dupfind](https://github.com/gabytz777/dupfind) - Find duplicate files by content. Pure V, zero dependencies, with JSON output.
 - [fdup](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
-- [github-releases](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
-- [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [httest](https://github.com/gechandesu/httest) - A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.
 - [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
 - [lsv](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
 - [minimax-v](https://github.com/whiter001/minimax-v) - Local AI Agent runtime implemented in the V language.
 - [pfjson](https://github.com/fleximus/pfjson) - A CLI tool to convert OpenBSD Packet Filter configuration files (`pf.conf`) to JSON and vice versa.
 - [portctl](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
-- [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
-- [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [v-terminal-apps](https://github.com/cogrow4/V-Terminal-Apps) - A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.
 - [v_llama_cpp](https://github.com/sakana-ctf/v_llama_cpp) - Lightweight V wrapper for Llama.cpp, enabling efficient LLM execution.
-- [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
-- [vcli](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
-- [verve](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
 - [vfc](https://github.com/Ict00/vfc) - A simple TUI file manager, made with V.
 - [vfetch](https://github.com/carlosqsilva/vfetch) - A macOS system information fetch written in V.
 - [vgoogle](https://github.com/changhz/vgoogle) - Make google search on the terminal.
-- [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
-- [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
-- [vLogQL](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
 - [vlsh](https://github.com/vlshcc/vlsh) - *nix Shell written in V (pipes, plugins, mux mode, etc).
 - [vqrcode](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
 - [vsnap](https://github.com/skandhas/vsnap) - A tiny local snapshot tool for saving and restoring files before risky edits, lighter than Git and built around explicit paths.
-- [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 - [vsqlite](https://github.com/quaesitor-scientiam/vsqlite) - SQLite CLI and module replacement written in pure V.
-- [vzcc](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 - [zilch](https://github.com/mike-ward/zilch) - An entertaining and amusing simulation of an installer.
 
 ### Editors
 
 - [lilly](https://github.com/tauraamui/lilly) - TUI editor and VIM/Neovim alternative.
-- [polygon-editor](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
 - [text_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) - Small text editor from the official V examples.
 - [ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 - [vee](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
@@ -119,7 +99,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Games
 
-- [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 - [Dino](https://github.com/egevtech/dino) - A simple console arcade game written in V where you control a dino and avoid cactuses and birds.
 - [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) - A simple flappy learning demo in v.
 - [Kurarin](https://github.com/FireRedz/kurarin) - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
@@ -127,26 +106,18 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [Puzzle Vibes](https://github.com/Larpon/puzzle_vibes) - A jigsaw-like puzzle game written in V using `shy`.
 - [VCraft](https://github.com/gabytz777/vcraft) - A voxel sandbox game written entirely in V with procedural terrain, biomes, water, mining/building, and a hotbar HUD.
 - [vchess](https://github.com/hedgeg0d/vchess) - Chess game written in V programming language.
-- [v-pong](https://github.com/thebigsmileXD/v-pong) - A classic paddle game brought back to life through the power of V.
 
 ### Graphics
 
-- [mpv-v](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
 - [vpaint](https://github.com/pisaiah/vpaint) - MS-Paint alternative written in V.
-- [vRayTracer](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
 ### Interpreters/Compilers
 
 - [Aixt](https://github.com/fermarsan/aixt) - Programming framework for microcontrollers based on a V-based language and written in V. 
-- [cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [papyrus-compiler](https://github.com/russo-2025/papyrus-compiler) - Open-source compiler for Bethesda's Papyrus scripting language (Skyrim SE/AE).
-- [stas](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 - [v](https://github.com/vlang/v) - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 - [vas](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
-- [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
-- [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
-- [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
 
 ### Operating systems/Kernels
 
@@ -160,71 +131,42 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Project management
 
 - [create-vlang-app](https://github.com/Create-Vlang-App/create-vlang-app) - A V-native scaffolding CLI to generate production-ready V projects from composable templates and extensions.
-- [Lenra template](https://github.com/lenra-io/template-v) - The Lenra template to write V app for Lenra platform.
-- [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
 
 ### Serialization
 
 - [ini-v](https://github.com/ldedev/ini-v) - Simple and practical module for manipulating ini/cfg file.
 - [maple](https://github.com/emmathemartian/maple) - A very simple key-value config format wrote in V.
-- [v-toxml](https://github.com/radare/v-toxml) - XML Serialization library for V.
-- [vgura](https://github.com/gura-conf/vgura) - Official Gura parser for V.
-- [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
-- [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 
 ### Utilities
 
 - [boj-server](https://github.com/hyperpolymath/boj-server) - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
-- [emoji-mart-desktop](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
 - [qptorrent](https://github.com/qptorrent/qptorrent) - A minimal GUI/CLI BitTorrent client written in V + vlang/gui.
 - [unix-emulators-win](https://github.com/Ddiidev/unix-emulators-win) - Collection of 16 UNIX utilities rewritten in V for Windows.
-- [v-nodejs-addon](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
 
 ### Web
 
 - [Gitly](https://github.com/vlang/gitly) - A light and fast SCM alternative to GitHub/GitLab written in V.
 - [gitval](https://github.com/davlgd/gitval) - A static site generator for Git repositories, written in V.
-- [Heroku Buildpack for V](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
 - [highlighter](https://codeberg.org/tamer/highlighter) - Inject syntax highlighting into HTML files at build time, or via the CLI tool.
 - [Mantis](https://github.com/khalyomede/mantis) - A web framework written in V.
 - [Mustela](https://github.com/filipos800/mustela) - Ultra-high-performance static site generator (SSG) engineered for speed (>9,000 pages/sec) and total data sovereignty.
 - [rr-dl](https://github.com/dy-tea/rr-dl) - Royal-Road Novel downloader.
 - [Tiniest Veb Server](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
-- [v-admin-skeleton](https://github.com/xiusin/v-system-skeleton) - Backend skeleton written in V.
 - [v-vite starter](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
-- [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
 - [Verne](https://github.com/davlgd/Verne) - The other static site generator named after a famous French author.
 - [vico_bot](https://github.com/KArjmand/vico_bot) - Lightweight self-hosted AI chatbot with persistent memory and tool calling.
-- [Vieter](https://github.com/ChewingBever/vieter) - Arch Linux repository server & package build system, written in V.
-- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
 - [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
-- [vss](https://github.com/vssio/vss) - Easy-to-use static site generator.
-- [VTik](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
 
 ## Libraries
 
 ### Audio
 
 - [miniaudio](https://github.com/larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
-- [vave](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
-- [vspeech](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
 
 ### Automation
 
 - [v-webdriver](https://github.com/quaesitor-scientiam/v-webdriver) - A V language implementation of the W3C WebDriver protocol for browser automation.
-- [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
-
-### Command line interface (CLI) / Terminal / Shell
-
-- [bartender](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
-- [boxx](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
-- [lol](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
-- [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
-- [spinners](https://github.com/rhygg/spinners) - Create spinners in your terminal!
-- [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
-- [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
-- [vesseract](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
 
 ### Database clients
 <!-- lint disable awesome-spell-check -->
@@ -232,42 +174,25 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [leveldb](https://github.com/vlang/leveldb) - Pure V implementation of LevelDB.
 - [mongodb](https://github.com/vlang/mongo) - A MongoDB driver for V.
 - [redict](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
-- [redis](https://github.com/patrickpissurno/vredis) - A Redis client for V, written in V.
 - [vduckdb](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
-- [vmemcached](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 - [vredis](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
-- [vsql](https://github.com/lydiandy/vsql) - A sql query builder for V.
 - [vsql](https://github.com/elliotchance/vsql) - Single-file SQL database written in pure V, following the SQL standard, with a CLI, a PostgreSQL-compatible server and an ORM.
 
 ### Discord
 
-- [discord.v](https://github.com/Terisback/discord.v) - User-friendly Discord bot library.
-- [discordwebhook](https://github.com/ysdragon/discordwebhook) - Super simple interface to send discord messages through webhooks.
 - [kitten](https://github.com/geniushq/kitten) - Simple Discord API library for writing bots.
 - [viscord](https://github.com/vlang/viscord) - Pretty basic library for connecting to the Discord gateway.
-- [vord](https://github.com/9xN/vord) - Library for interacting with user account endpoints and gateway (Self-bots, custom clients, etc).
 
 ### Eventing
 
 - [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V.
 - [rxv](https://github.com/ulises-jeremias/rxv) - Reactive Extensions for the V language. Compose async event streams with creation, filtering, transformation, aggregation, timing, and combination operators.
 
-### File handling
-
-- [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
-- [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
-
 ### Game development
 
 - [chipmunk2d](https://github.com/larpon/chipmunk2d) - V wrapper of the Chipmunk2D physics library.
-- [engine](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
-- [raylib.v](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
 - [sdl2test](https://github.com/nsauzede/sdl2test) - Exhaustive suite of tests and examples for SDL2 with V.
 - [shy](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
-- [V_ecs](https://github.com/mohamedLT/V_ecs) - ECS library made in V inspired by Bevy ECS.
-- [vraylib](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
-- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
-- [wren](https://github.com/larpon/wren) - V wrapper around the excellent Wren scripting language.
 
 ### Graphics
 
@@ -276,12 +201,8 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [svgg](https://github.com/Avocadocs/svgg) - V module to load and resterize svg file into `gg.Image` object.
 - [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 - [vglyph](https://github.com/vlang/vglyph) - High-performance text rendering engine for the V programming language, built on Pango, FreeType, and Sokol.
-- [viup](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
-- [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
-- [V_sokol_gp](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol_gp library for easy and fast 2d graphics.
 - [vbmp](https://github.com/dy-tea/vbmp) - Read and write bitmap files.
 - [voronoi](https://github.com/larpon/voronoi) - V wrapper of [JCash/voronoi](https://github.com/JCash/voronoi).
-- [vqoi](https://github.com/Le0Developer/vqoi) - V: QOI - The "Quite OK Image" format for fast, lossless image compression.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [vsl.vcl](https://github.com/vlang/vsl/tree/main/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
 - [vsl.plot](https://github.com/vlang/vsl/tree/main/plot#readme) - Plotting module for VSL with 85+ examples. Create line charts, scatter plots, 3D surfaces, bar charts, box plots, histograms, heatmaps, and more.
@@ -292,15 +213,10 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vjsx](https://github.com/guweigang/vjsx) - V bindings to quickjs javascript engine. Run JS in V.
 - [vphp](https://github.com/guweigang/vphp) - Vlang library for building PHP extensions natively in Vlang.
 
-### IRC
-
-- [vitric](https://github.com/m-242/vitric) - A transparent IRC library.
-
 ### Networking
 
 - [netaddr](https://github.com/gechandesu/netaddr) - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
 - [netio](https://github.com/gechandesu/netio) - Low-level networking library for V that gives more control over sockets.
-- [vibe](https://github.com/tobealive/vibe) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 - [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 - [webrtc-v](https://github.com/bedrock-v/webrtc-v) - A pure V implementation of the WebRTC protocol stack.
 - [raknet](https://github.com/bedrock-v/raknet) - A V implementation of the classic RakNet protocol used by Minecraft: Bedrock Edition.
@@ -308,13 +224,9 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Operating system
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
-- [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
-- [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
-- [winreg](https://github.com/ldedev/WindowsRegistry) - MS Windows Registry API. (WIP)
 
 ### Scientific computing
 
-- [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 - [vsl](https://github.com/vlang/vsl) - A Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, it also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
 - [vsl.fft](https://github.com/vlang/vsl/tree/main/fft#readme) - Fast Fourier Transform module for VSL. Includes real and complex FFT with multiple backend options.
 - [vsl.ml](https://github.com/vlang/vsl/tree/main/ml#readme) - Machine Learning module for VSL with K-means, KNN, linear/logistic regression, SVM, decision trees, random forest, and more.
@@ -326,36 +238,13 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vtl.nn](https://github.com/vlang/vtl/tree/main/nn#readme) - Neural Networks module for VTL. Build and train deep learning models with layers, activations, and optimizers.
 - [NeuralNetworks-V-Module](https://github.com/Eliyaan/NeuralNetworks-V-Module) - This is a V module to create neural networks.
 
-### Serial Communications
-
-- [vi2c](https://github.com/erdetn/vi2c) - A tiny (wrapper) library for I2C serial communication for Linux written in V.
-- [vserialport](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
-- [vserialx](https://github.com/erdetn/vserialx) - A tiny (wrapper) serial communication library for Linux written in V.
-
-### Telecommunications
-
-- [vagi](https://github.com/Ouri028/vagi) - Asterisk FastAGI library in V.
-
 ### Telegram
 
 - [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ### Text processing
 
-- [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
-- [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
-- [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
-- [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
-- [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
-- [pcre2](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
-- [read_xlsx_v](https://github.com/fanlia/read_xlsx_v) - Read xlsx using vlang.
-- [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
-- [slugify](https://github.com/einar-hjortdal/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
-- [text-processing](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
-- [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
 - [vsoup](https://github.com/marcalc/vsoup) - A fast, JSoup-inspired HTML5 parser and DOM manipulation library for V, powered by Lexbor.
-- [vxml](https://github.com/i582/vxml) - Pure V library for parsing XML to a DOM.
-- [whisker](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
 - [xlsx](https://github.com/hungrybluedev/xlsx) - V library for reading and writing Microsoft Excel files.
 - [lexical_uuid](https://github.com/einar-hjortdal/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
 
@@ -363,52 +252,30 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [bobatea](https://github.com/tauraamui/bobatea) - TUI framework inspired by Bubble Tea.
 - [iUI](https://github.com/isaiahpatton/ui) - Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
-- [mui](https://github.com/malisipi/mui) - A Cross-Platform UI library for Windows, Linux, Android and Web.
 - [V UI](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
-- [vgtk3](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
-- [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
-- [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
 - [V-WebUI](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
-- [webview](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 
 ### Utility
 
-- [dialog](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
 - [dotenv](https://github.com/einar-hjortdal/dotenv) - Loads environment variables from a .env file for development purposes.
 - [json2v](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
-- [objc](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
-- [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [structlog](https://github.com/gechandesu/structlog) - Structured logs library for V.
 - [V-crypto](https://github.com/bstnbuck/V-crypto) - Implementation of additional cryptographic algorithms.
 - [v-hash](https://github.com/deatil/v-hash) - A hash library for vlang.
 - [v-rsa](https://github.com/deatil/v-rsa) - A RSA library for vlang.
-- [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
 - [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
-- [vhs](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
-- [VInstall](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
-- [votp](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
 
 ### Web
 
 - [blobly](https://github.com/einar-hjortdal/blobly) - Central file server.
 - [jsonrpcv](https://github.com/Te4nick/jsonrpcv) - JSON-RPC 2.0 client+server implementation in pure V.
-- [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
 - [sessions](https://github.com/einar-hjortdal/sessions) - Web-framework-agnostic sessions library.
 - [swelte](https://github.com/eddow/swelte) - "V in Svelte" - SvelteKit equivalent using V as backend and isomorphic code.
-- [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 - [v-jwt](https://github.com/deatil/v-jwt) - A JWT (JSON Web Token) library for vlang.
 - [v-sm3](https://github.com/deatil/v-sm3) - A SM3 hash function for vlang.
-- [validate](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
-- [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
-- [vcurrency](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
 - [veb](https://github.com/vlang/v/tree/master/vlib/veb) - V's built-in web framework.
-- [vest](https://github.com/alexferl/vest) - A REST client in V.
-- [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
-- [vigest](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
 - [viltrum](https://github.com/Tuntii/viltrum) - Web framework with its own HTTP/1.1, HTTP/2, WebSocket and TLS 1.3 engine, zero allocations per request.
 - [vite.v](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
-- [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
-- [west](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
 
 ## Other
 
@@ -430,34 +297,10 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [tree-sitter-v](https://github.com/undivisible/tree-sitter-v) - Tree-sitter grammar for V language. Maintained fork with modern API, crates.io package, 244 node types.
 
-#### Atom
-
-- [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
-
-#### Emacs
-
-- [v-mode](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
-- [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
-
-#### Pulsar
-
-- [language-v](https://packages.pulsar-edit.dev/packages/language-v) - V language support for Atom (port of vscode-vlang) (migrated from atom.io)
-
-#### Sublime Text 3
-
-- [sublime-v](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
-- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime Text 3 Support for the Vlang Programming Language.
-
 #### VS Code
 
 - [vscode-vlang](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 - [v-analyzer](https://github.com/vlang/v-analyzer) - Bring IDE features for the V programming language to VS Code.
-
-#### Vim
-
-- [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
-- [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
-- [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
 
 #### Zed
 - [zed-v](https://github.com/lv37/zed-v) - Support for V syntax highlighting in Zed.
@@ -469,12 +312,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### GitHub Actions
 
-- [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
 - [setup-v](https://github.com/vlang/setup-v) - GitHub Action to install and use V in your workflow. Available on the [marketplace](https://github.com/marketplace/actions/setup-vlang).
-
-### GitHub templates
-
-- [v-project-basement](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
 
 ### IDEs with V
 
@@ -488,30 +326,15 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Operating Systems & OS Development Examples
 
 - [limine-v-template](https://github.com/plos-clan/limine-v-template) - A simple template for building a Limine-compliant kernel in V.
-- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.
-
-### Patterns
-
-- [MVU.v](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
 
 ### Programming contests
 
-- [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - Solution of Advent of Code 2019 in V.
 - [Advent of Code 2022](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 - [Rosetta Code in V](https://rosettacode.org/wiki/Category:V_(Vlang)) - Solutions for Rosetta Code in V.
-- [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - Implementation of the SoloLearn coding challenges in V.
-
-### Syntax highlighting
-
-- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
-- [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
 
 ### Tutorials
 
-- [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
-- [V by Example](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
 - [V for Node Devs](https://github.com/Thigidu/vlang-for-nodejs-developers) - Vlang for node js developers.
-- [V learning notes](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
 
 ### Videos
 
