@@ -405,6 +405,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vest](https://github.com/alexferl/vest) - A REST client in V.
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vigest](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
+- [viltrum](https://github.com/Tuntii/viltrum) - Web framework with its own HTTP/1.1, HTTP/2, WebSocket and TLS 1.3 engine, zero allocations per request.
 - [vite.v](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 - [west](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
