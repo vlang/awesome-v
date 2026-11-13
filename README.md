@@ -74,37 +74,19 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Command-line
 
-- [amdim](https://github.com/tailsmails/amdim) - Make your screen dimmer than 0%.
-- [anyside](https://github.com/tailsmails/anyside) - Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.
 - [crepl](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
-- [dnshammer](https://github.com/tailsmails/dnshammer) - A covert communication channel that encodes data into DNS cache timing differences.
 - [dupfind](https://github.com/gabytz777/dupfind) - Find duplicate files by content. Pure V, zero dependencies, with JSON output.
-- [envelop](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
-- [fastgit](https://github.com/tailsmails/fastgit) - A command-line tool written in V, designed to automate and simplify uploading, syncing, and modifying GitHub repositories.
 - [fdup](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
-- [gatevay](https://github.com/tailsmails/gatevay) - A lightweight, multi-gateway SOCKS5 proxy tool.
 - [github-releases](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 - [httest](https://github.com/gechandesu/httest) - A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.
 - [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
-- [lagger](https://github.com/tailsmails/lagger) - A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.
 - [lsv](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
 - [minimax-v](https://github.com/whiter001/minimax-v) - Local AI Agent runtime implemented in the V language.
-- [mushroomtek](https://github.com/tailsmails/mushroomtek) - Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).
-- [musicc](https://github.com/tailsmails/musicc) - A lightweight, high-performance command-line music compiler.
-- [netprint](https://github.com/tailsmails/netprint) - A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.
-- [newfolder](https://github.com/tailsmails/newfolder) - A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.
-- [oscall](https://github.com/tailsmails/oscall) - A native, low-level CLI utility written in V for inspecting, loading, and dynamically executing arbitrary C/C++ functions.
 - [pfjson](https://github.com/fleximus/pfjson) - A CLI tool to convert OpenBSD Packet Filter configuration files (`pf.conf`) to JSON and vice versa.
-- [PhoneSnatchProof](https://github.com/tailsmails/PhoneSnatchProof) - An FS that encrypts your app data and keeps them on RAM (with a backup).
-- [pixviper](https://github.com/tailsmails/pixviper) - A parallel template matching and de-redaction investigation tool written in V.
 - [portctl](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
-- [salty](https://github.com/tailsmails/salty) - A lightweight command-line utility written in V for secure data encryption, deep compression, and steganographic-like format obfuscation.
-- [sockslender](https://github.com/tailsmails/sockslender) - A lightweight, blazing-fast SOCKS5 proxy failover tool written in V.
-- [stripshot](https://github.com/tailsmails/stripshot) - Strips device/OS fingerprints from screenshots.
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
-- [timingless](https://github.com/tailsmails/timingless) - A SOCKS5 proxy that sits between your applications and Tor, enforcing constant bandwidth to defeat traffic timing analysis.
 - [v-terminal-apps](https://github.com/cogrow4/V-Terminal-Apps) - A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.
 - [v_llama_cpp](https://github.com/sakana-ctf/v_llama_cpp) - Lightweight V wrapper for Llama.cpp, enabling efficient LLM execution.
 - [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
@@ -114,7 +96,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vfetch](https://github.com/carlosqsilva/vfetch) - A macOS system information fetch written in V.
 - [vgoogle](https://github.com/changhz/vgoogle) - Make google search on the terminal.
 - [vin](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
-- [vin32](https://github.com/tailsmails/vin32) - A basic, heuristic-based CLI tool to generate V language bindings from simple Windows C header files.
 - [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 - [vLogQL](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
 - [vlsh](https://github.com/vlshcc/vlsh) - *nix Shell written in V (pipes, plugins, mux mode, etc).
@@ -122,9 +103,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vsnap](https://github.com/skandhas/vsnap) - A tiny local snapshot tool for saving and restoring files before risky edits, lighter than Git and built around explicit paths.
 - [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 - [vsqlite](https://github.com/quaesitor-scientiam/vsqlite) - SQLite CLI and module replacement written in pure V.
-- [vtrace](https://github.com/tailsmails/vtrace) - An automated execution tracer and step-by-step source code instrumenter for the V programming language.
 - [vzcc](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
-- [waterjail](https://github.com/tailsmails/waterjail) - A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.
 - [zilch](https://github.com/mike-ward/zilch) - An entertaining and amusing simulation of an installer.
 
 ### Editors
@@ -198,7 +177,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [boj-server](https://github.com/hyperpolymath/boj-server) - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
 - [emoji-mart-desktop](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
 - [qptorrent](https://github.com/qptorrent/qptorrent) - A minimal GUI/CLI BitTorrent client written in V + vlang/gui.
-- [raur](https://github.com/Matejsdevelopment/raur) - Simple Arch User Repository (AUR) helper coded in Vlang.
 - [unix-emulators-win](https://github.com/Ddiidev/unix-emulators-win) - Collection of 16 UNIX utilities rewritten in V for Windows.
 - [v-nodejs-addon](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
 
@@ -322,7 +300,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [netaddr](https://github.com/gechandesu/netaddr) - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
 - [netio](https://github.com/gechandesu/netio) - Low-level networking library for V that gives more control over sockets.
-- [netr](https://github.com/tailsmails/netr) - A modular, zero-dependency raw socket and network packet crafting library written in V.
 - [vibe](https://github.com/tobealive/vibe) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 - [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 - [webrtc-v](https://github.com/bedrock-v/webrtc-v) - A pure V implementation of the WebRTC protocol stack.
@@ -332,14 +309,11 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
 - [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
-- [rgc](https://github.com/tailsmails/rgc) - A lightweight, concurrent resource garbage collector for V.
-- [vcomp](https://github.com/tailsmails/vcomp) - A lightweight Linux Seccomp (Secure Computing Mode) BPF filter wrapper for vlang.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
 - [winreg](https://github.com/ldedev/WindowsRegistry) - MS Windows Registry API. (WIP)
 
 ### Scientific computing
 
-- [vnm](https://github.com/tailsmails/vnm) - A minimalist, compiled neural network library written in the V programming language.
 - [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 - [vsl](https://github.com/vlang/vsl) - A Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, it also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
 - [vsl.fft](https://github.com/vlang/vsl/tree/main/fft#readme) - Fast Fourier Transform module for VSL. Includes real and complex FFT with multiple backend options.
@@ -364,11 +338,9 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Telegram
 
-- [velegram](https://github.com/tailsmails/velegram) - A V language wrapper for TDLib (Telegram Database Library).
 - [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ### Text processing
-
 
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 - [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
@@ -411,11 +383,9 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v-hash](https://github.com/deatil/v-hash) - A hash library for vlang.
 - [v-rsa](https://github.com/deatil/v-rsa) - A RSA library for vlang.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
-- [vanadium](https://github.com/tailsmails/vanadium) - Ada-level runtime safety for the V programming language.
 - [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 - [vhs](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 - [VInstall](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
-- [vop](https://github.com/tailsmails/vop) - A message-passing object protocol providing dynamic property management and closure-based state encapsulation.
 - [votp](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
 
 ### Web
