@@ -8,7 +8,13 @@ jobs:
   test:
     name: Run awesome linter
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
     - uses: actions/checkout@v4
+      id: uses_checkout_v4
     - uses: actions/setup-node@v4
+      id: uses_setup_node_v4
+      if: ${{ success() && !cancelled() && steps.uses_checkout_v4.outcome == 'success' }}
     - run: npx awesome-lint README.md
+      id: step
+      if: ${{ success() && !cancelled() && steps.uses_setup_node_v4.outcome == 'success' }}
