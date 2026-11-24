@@ -74,6 +74,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Command-line
 
+- [amber](https://github.com/elliotchance/amber) - A deduplicating, versioned backup tool that compresses, verifies and restores every file to any moment in time.
 - [crepl](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 - [dupfind](https://github.com/gabytz777/dupfind) - Find duplicate files by content. Pure V, zero dependencies, with JSON output.
 - [fdup](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
